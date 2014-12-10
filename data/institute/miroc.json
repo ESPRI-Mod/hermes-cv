@@ -1,0 +1,13 @@
+{
+    "description": "Model for Interdisciplinary Research on Climate", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.905103+00:00", 
+        "domain": "climate", 
+        "name": "miroc", 
+        "type": "institute", 
+        "uid": "8759dac7-1af8-4f0e-938b-635ddaf80729"
+    }, 
+    "name": "MIROC", 
+    "url": "http://www.ccsr.u-tokyo.ac.jp"
+}

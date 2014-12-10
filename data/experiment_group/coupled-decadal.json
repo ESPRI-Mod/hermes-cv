@@ -1,0 +1,14 @@
+{
+    "description": "Coupled Decadal", 
+    "meta": {
+        "associations": [
+            "activity.cmip5"
+        ], 
+        "create_date": "2014-12-10T14:16:58.896990+00:00", 
+        "domain": "climate", 
+        "name": "coupled-decadal", 
+        "type": "experiment_group", 
+        "uid": "095682eb-399f-43e0-8617-4f4d344c47f0"
+    }, 
+    "name": "coupled-decadal"
+}

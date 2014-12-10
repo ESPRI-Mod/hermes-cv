@@ -1,0 +1,18 @@
+{
+    "manafacturer": "INTEL", 
+    "meta": {
+        "associations": [
+            "compute_node.cines"
+        ], 
+        "create_date": "2014-12-10T14:16:58.869430+00:00", 
+        "domain": "climate", 
+        "name": "cines-jade", 
+        "type": "compute_node_machine", 
+        "uid": "89097194-64d4-4461-87cb-79653d602fa6"
+    }, 
+    "name": "CINES-JADE", 
+    "synonyms": [
+        "JADE"
+    ], 
+    "type": "Quad-Core"
+}

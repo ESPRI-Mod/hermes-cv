@@ -1,0 +1,12 @@
+{
+    "description": "Cleanup", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.915365+00:00", 
+        "domain": "climate", 
+        "name": "8888", 
+        "type": "message_type", 
+        "uid": "73600b13-3cb6-4217-a286-73c09da0fbc5"
+    }, 
+    "name": "8888"
+}

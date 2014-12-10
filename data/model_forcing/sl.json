@@ -1,0 +1,15 @@
+{
+    "description": "Solar irradiance", 
+    "long_description": "Solar irradiance (note : Sl is 'S' followed by a lower case 'L', not an upper case 'I')", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.925574+00:00", 
+        "domain": "climate", 
+        "name": "sl", 
+        "type": "model_forcing", 
+        "uid": "ff6b69c4-2806-410a-a2f8-9ef1b5c35fb6"
+    }, 
+    "name": "Sl"
+}

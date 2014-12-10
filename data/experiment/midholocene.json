@@ -1,0 +1,15 @@
+{
+    "description": "mid-Holocene", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.889401+00:00", 
+        "domain": "climate", 
+        "name": "midholocene", 
+        "type": "experiment", 
+        "uid": "383ac3ee-be36-4542-88cb-ee8910650735"
+    }, 
+    "name": "midHolocene"
+}

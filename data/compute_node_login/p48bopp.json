@@ -1,0 +1,16 @@
+{
+    "email": "Laurent.Bopp@lsce.ipsl.fr", 
+    "family_name": "Bopp", 
+    "first_name": "Laurent", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.860915+00:00", 
+        "domain": "climate", 
+        "name": "p48bopp", 
+        "type": "compute_node_login", 
+        "uid": "5bedab40-5962-4884-a128-79d84881f097"
+    }, 
+    "name": "p48bopp"
+}

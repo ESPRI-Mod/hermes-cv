@@ -1,0 +1,16 @@
+{
+    "email": "Josefine.Ghattas@ipsl.jussieu.fr", 
+    "family_name": "Ghattas", 
+    "first_name": "Josefine", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.863806+00:00", 
+        "domain": "climate", 
+        "name": "p86ghatt", 
+        "type": "compute_node_login", 
+        "uid": "1080b83b-4fa7-4dc1-8f9f-1d91a118f941"
+    }, 
+    "name": "p86ghatt"
+}

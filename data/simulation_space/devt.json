@@ -1,0 +1,12 @@
+{
+    "description": "Recherche, prive IPSL", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.927308+00:00", 
+        "domain": "climate", 
+        "name": "devt", 
+        "type": "simulation_space", 
+        "uid": "92570971-3716-4929-960b-3916d52c32e5"
+    }, 
+    "name": "DEVT"
+}

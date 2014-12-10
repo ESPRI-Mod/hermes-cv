@@ -1,0 +1,13 @@
+{
+    "description": "The First Institute of Oceanography", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.903314+00:00", 
+        "domain": "climate", 
+        "name": "fio", 
+        "type": "institute", 
+        "uid": "f4d8ea81-cb10-4987-a3fe-80a04fa42409"
+    }, 
+    "name": "FIO", 
+    "url": "http://www.fio.org.cn/index.asp"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "Environment metrics", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.909318+00:00", 
+        "domain": "climate", 
+        "name": "env-metrics", 
+        "type": "message_application", 
+        "uid": "669cce5b-0df9-4c54-9638-fc4f61b1d971"
+    }, 
+    "name": "env-metrics"
+}

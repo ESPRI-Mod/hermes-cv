@@ -1,0 +1,18 @@
+{
+    "manafacturer": "INTEL", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.869157+00:00", 
+        "domain": "climate", 
+        "name": "ccrt-titane", 
+        "type": "compute_node_machine", 
+        "uid": "7affad7d-fe53-4d57-a315-fff339daa316"
+    }, 
+    "name": "CCRT-TITANE", 
+    "synonyms": [
+        "TITANE"
+    ], 
+    "type": "Quad-Core"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "liblIGCM user", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.916235+00:00", 
+        "domain": "climate", 
+        "name": "libigcm-mq-user", 
+        "type": "message_user", 
+        "uid": "aee52943-3f1e-4dfd-be88-fb88167ff4c9"
+    }, 
+    "name": "libigcm-mq-user"
+}

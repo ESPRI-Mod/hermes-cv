@@ -1,0 +1,14 @@
+{
+    "description": "Centre de Calcul Recherche et Technologie", 
+    "dods_server_url": "https://esgf.extra.cea.fr/thredds/fileServer/DODSWORK", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.857156+00:00", 
+        "domain": "climate", 
+        "name": "ccrt", 
+        "type": "compute_node", 
+        "uid": "98aeb863-d13e-4f1f-b307-9ac3030464ff"
+    }, 
+    "name": "CCRT", 
+    "url": "http://www-ccrt.cea.fr/"
+}

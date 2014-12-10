@@ -1,0 +1,13 @@
+{
+    "description": "Commonwealth Scientific and Industrial Research Organisation", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.902865+00:00", 
+        "domain": "climate", 
+        "name": "csiro-qccce", 
+        "type": "institute", 
+        "uid": "7c6bd322-7578-4dd4-830e-1739263d8901"
+    }, 
+    "name": "CSIRO-QCCCE", 
+    "url": "http://www.csiro.au"
+}

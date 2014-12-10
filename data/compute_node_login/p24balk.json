@@ -1,0 +1,16 @@
+{
+    "email": "Yves.Balkanski@lsce.ipsl.fr", 
+    "family_name": "Balkanski", 
+    "first_name": "Yves", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.860695+00:00", 
+        "domain": "climate", 
+        "name": "p24balk", 
+        "type": "compute_node_login", 
+        "uid": "846c4ced-f0ab-4797-889f-11cd7b541121"
+    }, 
+    "name": "p24balk"
+}

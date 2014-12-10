@@ -1,0 +1,16 @@
+{
+    "email": "Olivier.Marti@lsce.ipsl.fr", 
+    "family_name": "Marti", 
+    "first_name": "Olivier", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.865641+00:00", 
+        "domain": "climate", 
+        "name": "p86ipsl", 
+        "type": "compute_node_login", 
+        "uid": "64707d50-3ffb-4764-88dd-0bda0e62f519"
+    }, 
+    "name": "p86ipsl"
+}

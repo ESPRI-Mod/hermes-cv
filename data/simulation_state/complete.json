@@ -1,0 +1,12 @@
+{
+    "description": "Process has completed with success.", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.929963+00:00", 
+        "domain": "climate", 
+        "name": "complete", 
+        "type": "simulation_state", 
+        "uid": "a21a1280-8863-44c3-bdb6-1c04a12e5c4f"
+    }, 
+    "name": "COMPLETE"
+}

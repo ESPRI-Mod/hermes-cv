@@ -1,0 +1,12 @@
+{
+    "description": "Trash, recale, KO", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.927847+00:00", 
+        "domain": "climate", 
+        "name": "fail", 
+        "type": "simulation_space", 
+        "uid": "bc544eb0-bbf9-4e40-8281-34806ae7b497"
+    }, 
+    "name": "FAIL"
+}

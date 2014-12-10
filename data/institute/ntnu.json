@@ -1,0 +1,13 @@
+{
+    "description": "Norwegian University of Science and Technology", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.907472+00:00", 
+        "domain": "climate", 
+        "name": "ntnu", 
+        "type": "institute", 
+        "uid": "96a2d39b-3df6-4053-b0c1-73328dadcb0f"
+    }, 
+    "name": "NTNU", 
+    "url": "http://www.ntnu.no"
+}

@@ -1,0 +1,17 @@
+{
+    "description": "IPSL Climate Model 5A - Low Resolution", 
+    "meta": {
+        "associations": [
+            "institute.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.917769+00:00", 
+        "domain": "climate", 
+        "name": "ipsl-cm5a-lr", 
+        "type": "model", 
+        "uid": "724ca179-3f95-481e-9609-6dc345a67f0d"
+    }, 
+    "name": "IPSL-CM5A-LR", 
+    "synonyms": [
+        "IPSLCM5A"
+    ]
+}

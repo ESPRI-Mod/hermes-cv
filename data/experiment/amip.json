@@ -1,0 +1,15 @@
+{
+    "description": "AMIP", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.877181+00:00", 
+        "domain": "climate", 
+        "name": "amip", 
+        "type": "experiment", 
+        "uid": "2e0b5c52-e3b5-4023-b85b-c8e0e3a8df79"
+    }, 
+    "name": "amip"
+}

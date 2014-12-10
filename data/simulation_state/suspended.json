@@ -1,0 +1,12 @@
+{
+    "description": "Process has been suspended.", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.929725+00:00", 
+        "domain": "climate", 
+        "name": "suspended", 
+        "type": "simulation_state", 
+        "uid": "f119f007-96aa-4ffc-9774-84d904dfa7b7"
+    }, 
+    "name": "SUSPENDED"
+}

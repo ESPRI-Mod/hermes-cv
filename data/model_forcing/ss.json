@@ -1,0 +1,14 @@
+{
+    "description": "Sea salt", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.926056+00:00", 
+        "domain": "climate", 
+        "name": "ss", 
+        "type": "model_forcing", 
+        "uid": "800daf2a-0c0a-499b-bde6-06ac746a2050"
+    }, 
+    "name": "SS"
+}

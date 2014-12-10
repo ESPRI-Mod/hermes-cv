@@ -1,0 +1,15 @@
+{
+    "description": "historical, natural forcing only", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.888767+00:00", 
+        "domain": "climate", 
+        "name": "historicalnat", 
+        "type": "experiment", 
+        "uid": "2465661c-2876-4afd-95fd-5e3dd2043ceb"
+    }, 
+    "name": "historicalNat"
+}

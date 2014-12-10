@@ -1,0 +1,16 @@
+{
+    "email": "Ionela.Musat@lmd.jussieu.fr", 
+    "family_name": "Musat", 
+    "first_name": "Ionela", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.866458+00:00", 
+        "domain": "climate", 
+        "name": "p86musat", 
+        "type": "compute_node_login", 
+        "uid": "b1bd49a0-330c-4bef-86a6-bfa9aacc6687"
+    }, 
+    "name": "p86musat"
+}

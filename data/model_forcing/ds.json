@@ -1,0 +1,14 @@
+{
+    "description": "Dust", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.922967+00:00", 
+        "domain": "climate", 
+        "name": "ds", 
+        "type": "model_forcing", 
+        "uid": "e64b4a69-0164-4194-93be-5f9849bd0f32"
+    }, 
+    "name": "Ds"
+}

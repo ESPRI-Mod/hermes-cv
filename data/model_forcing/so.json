@@ -1,0 +1,14 @@
+{
+    "description": "Stratomfheric ozone", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.925828+00:00", 
+        "domain": "climate", 
+        "name": "so", 
+        "type": "model_forcing", 
+        "uid": "0b207b0e-371d-4947-9f1b-5f9720de7608"
+    }, 
+    "name": "SO"
+}

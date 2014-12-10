@@ -1,0 +1,15 @@
+{
+    "description": "ESM feedback 1", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.885374+00:00", 
+        "domain": "climate", 
+        "name": "esmfdbk1", 
+        "type": "experiment", 
+        "uid": "0da937c3-e677-479d-b9b8-8a86eac45aeb"
+    }, 
+    "name": "esmFdbk1"
+}

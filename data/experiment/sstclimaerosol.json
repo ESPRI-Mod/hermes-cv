@@ -1,0 +1,15 @@
+{
+    "description": "all aerosol forcing", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.894731+00:00", 
+        "domain": "climate", 
+        "name": "sstclimaerosol", 
+        "type": "experiment", 
+        "uid": "7dc48ca5-4da9-42ea-b4cb-7ebaff7144a5"
+    }, 
+    "name": "sstClimAerosol"
+}

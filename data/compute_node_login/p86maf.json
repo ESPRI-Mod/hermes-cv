@@ -1,0 +1,16 @@
+{
+    "email": "Marie-Alice.Foujols@ipsl.jussieu.fr", 
+    "family_name": "Foujols", 
+    "first_name": "Marie-Alice", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.863575+00:00", 
+        "domain": "climate", 
+        "name": "p86maf", 
+        "type": "compute_node_login", 
+        "uid": "e7c399ab-0160-4975-8d11-72dd90b09546"
+    }, 
+    "name": "p86maf"
+}

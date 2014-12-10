@@ -1,0 +1,16 @@
+{
+    "email": "Laurent.Fairhead@lmd.jussieu.fr", 
+    "family_name": "Fairhead", 
+    "first_name": "Laurent", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.863330+00:00", 
+        "domain": "climate", 
+        "name": "p86fair", 
+        "type": "compute_node_login", 
+        "uid": "d62ad7eb-ebd9-4bbf-aa9d-f21dcbd62a2a"
+    }, 
+    "name": "p86fair"
+}

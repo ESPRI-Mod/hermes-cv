@@ -1,0 +1,16 @@
+{
+    "email": "Sonia.Labetoulle@locean-ipsl.upmc.fr", 
+    "family_name": "Labetoulle", 
+    "first_name": "Sonia", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.865187+00:00", 
+        "domain": "climate", 
+        "name": "labetoul", 
+        "type": "compute_node_login", 
+        "uid": "8e984478-ae6d-4027-a0df-5e2a849fd095"
+    }, 
+    "name": "labetoul"
+}

@@ -1,0 +1,16 @@
+{
+    "email": "Masa.Kageyama@lsce.ipsl.fr", 
+    "family_name": "Kageyama", 
+    "first_name": "Masa", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.864949+00:00", 
+        "domain": "climate", 
+        "name": "p25masa", 
+        "type": "compute_node_login", 
+        "uid": "9e08a869-7949-4f44-b5ea-40ce71e0346b"
+    }, 
+    "name": "p25masa"
+}

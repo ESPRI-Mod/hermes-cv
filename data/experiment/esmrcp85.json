@@ -1,0 +1,15 @@
+{
+    "description": "ESM RCP8.5", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.886730+00:00", 
+        "domain": "climate", 
+        "name": "esmrcp85", 
+        "type": "experiment", 
+        "uid": "ef3ac173-dfbb-4608-8591-db649af0d9dd"
+    }, 
+    "name": "esmrcp85"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "FATAL", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.915810+00:00", 
+        "domain": "climate", 
+        "name": "9999", 
+        "type": "message_type", 
+        "uid": "072deb94-76ca-4f31-bc67-ef520be9c899"
+    }, 
+    "name": "9999"
+}

@@ -1,0 +1,14 @@
+{
+    "description": "IPSL internal", 
+    "meta": {
+        "associations": [
+            "activity.cmip5"
+        ], 
+        "create_date": "2014-12-10T14:16:58.897664+00:00", 
+        "domain": "climate", 
+        "name": "ipsl-internal", 
+        "type": "experiment_group", 
+        "uid": "8e93528a-88d9-4141-a104-8bea2786eb48"
+    }, 
+    "name": "ipsl-internal"
+}

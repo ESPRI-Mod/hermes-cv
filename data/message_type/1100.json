@@ -1,0 +1,12 @@
+{
+    "description": "La fin du job", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.914232+00:00", 
+        "domain": "climate", 
+        "name": "1100", 
+        "type": "message_type", 
+        "uid": "61c58740-8f65-4fb5-90f1-a93680238307"
+    }, 
+    "name": "1100"
+}

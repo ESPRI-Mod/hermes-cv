@@ -1,0 +1,13 @@
+{
+    "description": "http://www.mpim-bonn.mpg.de", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.905729+00:00", 
+        "domain": "climate", 
+        "name": "mpi-m", 
+        "type": "institute", 
+        "uid": "48a01c4b-a573-450f-8c98-ee0246c4a74c"
+    }, 
+    "name": "MPI-M", 
+    "url": "http://www.ipsl.fr"
+}

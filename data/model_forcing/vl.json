@@ -1,0 +1,15 @@
+{
+    "description": "Volcanic aerosol", 
+    "long_description": "Volcanic aerosol (note : Vl is 'V' followed by a lower case 'L', not an upper case 'I')", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.926553+00:00", 
+        "domain": "climate", 
+        "name": "vl", 
+        "type": "model_forcing", 
+        "uid": "0052ed7c-1327-4618-b177-3b4041beb76e"
+    }, 
+    "name": "Vl"
+}

@@ -1,0 +1,17 @@
+{
+    "description": "Anthropogenic sulfate aerosol direct & indirect effects", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.924824+00:00", 
+        "domain": "climate", 
+        "name": "sa", 
+        "type": "model_forcing", 
+        "uid": "0f69078c-6c4e-4654-8494-89dd3d328518"
+    }, 
+    "name": "SA", 
+    "synonyms": [
+        "SA(=SD+SI)"
+    ]
+}

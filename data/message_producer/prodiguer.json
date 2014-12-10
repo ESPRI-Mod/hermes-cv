@@ -1,0 +1,12 @@
+{
+    "description": "intra-mq publisher", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.910446+00:00", 
+        "domain": "climate", 
+        "name": "prodiguer", 
+        "type": "message_producer", 
+        "uid": "7c34dd1c-6475-4dc6-8fd9-9298b55125fa"
+    }, 
+    "name": "prodiguer"
+}

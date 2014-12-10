@@ -1,0 +1,17 @@
+{
+    "email": "Sebastien.Denvil@ipsl.jussieu.fr", 
+    "family_name": "Denvil", 
+    "first_name": "Sebastien", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.862682+00:00", 
+        "domain": "climate", 
+        "name": "p86denv", 
+        "type": "compute_node_login", 
+        "uid": "07793f11-bf91-420e-86f9-e8c6e6afb7c8"
+    }, 
+    "mobile": "0033687377768", 
+    "name": "p86denv"
+}

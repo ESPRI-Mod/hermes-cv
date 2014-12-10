@@ -1,0 +1,12 @@
+{
+    "description": "La fin de la simulation", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.913330+00:00", 
+        "domain": "climate", 
+        "name": "0100", 
+        "type": "message_type", 
+        "uid": "e49f87da-e102-4817-9963-660ad1426460"
+    }, 
+    "name": "0100"
+}

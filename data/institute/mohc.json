@@ -1,0 +1,13 @@
+{
+    "description": "Met Office Hadley Centre", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.905365+00:00", 
+        "domain": "climate", 
+        "name": "mohc", 
+        "type": "institute", 
+        "uid": "6efcf4c2-fe04-47aa-9ae4-3964b3c2939e"
+    }, 
+    "name": "MOHC", 
+    "url": "http://www.metoffice.gov.uk/climatechange/science/hadleycentre"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "An email message pulled from an SMTP server", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.911838+00:00", 
+        "domain": "climate", 
+        "name": "-1000", 
+        "type": "message_type", 
+        "uid": "a2e71520-a496-4872-94b7-00a4f8589921"
+    }, 
+    "name": "-1000"
+}

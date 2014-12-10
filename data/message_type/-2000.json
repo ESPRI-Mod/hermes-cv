@@ -1,0 +1,12 @@
+{
+    "description": "An internal web API notification", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.912239+00:00", 
+        "domain": "climate", 
+        "name": "-2000", 
+        "type": "message_type", 
+        "uid": "5b7dc2b3-7d05-4e1c-8f53-51f7f3cb4eb5"
+    }, 
+    "name": "-2000"
+}

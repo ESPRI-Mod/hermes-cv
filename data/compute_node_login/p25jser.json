@@ -1,0 +1,16 @@
+{
+    "email": "Jerome.Servonnat@lsce.ipsl.fr", 
+    "family_name": "Servonnat", 
+    "first_name": "Jerome", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.866688+00:00", 
+        "domain": "climate", 
+        "name": "p25jser", 
+        "type": "compute_node_login", 
+        "uid": "9b964136-45d6-47a2-80d7-15ef0d841f87"
+    }, 
+    "name": "p25jser"
+}

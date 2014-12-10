@@ -1,0 +1,15 @@
+{
+    "description": "volcano-free hindcasts initiated in 1960", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-longterm"
+        ], 
+        "create_date": "2014-12-10T14:16:58.889822+00:00", 
+        "domain": "climate", 
+        "name": "novolc1960", 
+        "type": "experiment", 
+        "uid": "346ba360-bbd5-461e-9ff8-d4cf51825620"
+    }, 
+    "name": "noVolc1960"
+}

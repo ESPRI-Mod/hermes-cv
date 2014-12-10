@@ -1,0 +1,16 @@
+{
+    "email": "David.Cugnet@latmos.ipsl.fr", 
+    "family_name": "Cugnet", 
+    "first_name": "David", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.862406+00:00", 
+        "domain": "climate", 
+        "name": "dcugnet", 
+        "type": "compute_node_login", 
+        "uid": "23cd8b0d-d4b6-4294-9a2f-4d77fe4c42c0"
+    }, 
+    "name": "dcugnet"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "La simulation d\u00c2\u008eemarre (FirstInitialize)", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.913108+00:00", 
+        "domain": "climate", 
+        "name": "0000", 
+        "type": "message_type", 
+        "uid": "e4093634-ee98-475a-9ade-ac7005400d2e"
+    }, 
+    "name": "0000"
+}

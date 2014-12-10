@@ -1,0 +1,14 @@
+{
+    "description": "Organic carbon", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.924250+00:00", 
+        "domain": "climate", 
+        "name": "oc", 
+        "type": "model_forcing", 
+        "uid": "8f018f01-86b2-4cb5-a7db-b8ed0ba6c594"
+    }, 
+    "name": "OC"
+}

@@ -1,0 +1,13 @@
+{
+    "description": "Beijing Normal University College of Global Change and Earth System Science", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.903600+00:00", 
+        "domain": "climate", 
+        "name": "gcess", 
+        "type": "institute", 
+        "uid": "713f1642-d034-4a8e-ae31-34fadd8ff2ae"
+    }, 
+    "name": "GCESS", 
+    "url": "http://www.gcess.cn"
+}

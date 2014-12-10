@@ -1,0 +1,13 @@
+{
+    "description": "Centre National de Recherches Meteorologiques / Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.902638+00:00", 
+        "domain": "climate", 
+        "name": "cnrm-cerfacs", 
+        "type": "institute", 
+        "uid": "4d509540-6a59-4efc-bf63-65677d5b9d1a"
+    }, 
+    "name": "CNRM-CERFACS", 
+    "url": "http://www.cerfacs.fr"
+}

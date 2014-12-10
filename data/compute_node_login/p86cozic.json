@@ -1,0 +1,16 @@
+{
+    "email": "Anne.Cozic@lsce.ipsl.fr", 
+    "family_name": "Cozic", 
+    "first_name": "Anne", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.862159+00:00", 
+        "domain": "climate", 
+        "name": "p86cozic", 
+        "type": "compute_node_login", 
+        "uid": "a1d2f26d-0245-413e-8ecc-93d74ab1ba01"
+    }, 
+    "name": "p86cozic"
+}

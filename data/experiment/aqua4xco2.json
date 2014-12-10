@@ -1,0 +1,15 @@
+{
+    "description": "4xCO2 aqua planet", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.878449+00:00", 
+        "domain": "climate", 
+        "name": "aqua4xco2", 
+        "type": "experiment", 
+        "uid": "fe4ed310-91bb-4777-982e-85ad2ad64239"
+    }, 
+    "name": "aqua4xCO2"
+}

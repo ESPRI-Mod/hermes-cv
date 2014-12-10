@@ -1,0 +1,15 @@
+{
+    "description": "RCP6", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.892708+00:00", 
+        "domain": "climate", 
+        "name": "rcp60", 
+        "type": "experiment", 
+        "uid": "a3e27a4d-a866-4e22-a3fb-6d4b758defa4"
+    }, 
+    "name": "rcp60"
+}

@@ -1,0 +1,13 @@
+{
+    "description": "Meteorological Research Institute", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.906077+00:00", 
+        "domain": "climate", 
+        "name": "mri", 
+        "type": "institute", 
+        "uid": "f38c3f61-6f37-4182-8dce-6463ef3abea5"
+    }, 
+    "name": "MRI", 
+    "url": "http://www.mri-jma.go.jp"
+}

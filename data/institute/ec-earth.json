@@ -1,0 +1,13 @@
+{
+    "description": "EC-EARTH", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.903091+00:00", 
+        "domain": "climate", 
+        "name": "ec-earth", 
+        "type": "institute", 
+        "uid": "7e11b032-a1d4-4283-b26c-172a88106825"
+    }, 
+    "name": "EC-EARTH", 
+    "url": "http://ecearth.knmi.nl"
+}

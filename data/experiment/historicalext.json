@@ -1,0 +1,15 @@
+{
+    "description": "historical simulation extended through year 2012", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.887498+00:00", 
+        "domain": "climate", 
+        "name": "historicalext", 
+        "type": "experiment", 
+        "uid": "db432275-eca1-46a8-8deb-c8636573afa4"
+    }, 
+    "name": "historicalExt"
+}

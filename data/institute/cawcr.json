@@ -1,0 +1,13 @@
+{
+    "description": "Centre for Australian Weather and Climate Research", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.901906+00:00", 
+        "domain": "climate", 
+        "name": "cawcr", 
+        "type": "institute", 
+        "uid": "ab897cd4-3972-4bd6-beb6-fed916198c6f"
+    }, 
+    "name": "CAWCR", 
+    "url": "http://www.cawcr.gov.au"
+}

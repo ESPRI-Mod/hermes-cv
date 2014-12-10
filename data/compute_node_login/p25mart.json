@@ -1,0 +1,16 @@
+{
+    "email": "Olivier.Marti@lsce.ipsl.fr", 
+    "family_name": "Marti", 
+    "first_name": "Olivier", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.865985+00:00", 
+        "domain": "climate", 
+        "name": "p25mart", 
+        "type": "compute_node_login", 
+        "uid": "efea4ad5-407b-4f9c-ac4f-72ab1849d287"
+    }, 
+    "name": "p25mart"
+}

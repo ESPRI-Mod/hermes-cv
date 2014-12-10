@@ -1,0 +1,13 @@
+{
+    "description": "National Climate Centre", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.906755+00:00", 
+        "domain": "climate", 
+        "name": "ncc", 
+        "type": "institute", 
+        "uid": "decf9396-ab6f-4be3-bdbc-937698a073d9"
+    }, 
+    "name": "NCC", 
+    "url": "http://www.niwa.co.nz/our-science/climate"
+}

@@ -1,0 +1,15 @@
+{
+    "description": "historical", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.887126+00:00", 
+        "domain": "climate", 
+        "name": "historical", 
+        "type": "experiment", 
+        "uid": "b656fb9e-39ca-4362-9c8b-23b9b73db64d"
+    }, 
+    "name": "historical"
+}

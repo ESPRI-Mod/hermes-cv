@@ -1,0 +1,13 @@
+{
+    "description": "Beijing Climate Center", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.901679+00:00", 
+        "domain": "climate", 
+        "name": "bcc", 
+        "type": "institute", 
+        "uid": "ce27b371-7219-49cd-9411-b15d314eee0a"
+    }, 
+    "name": "BCC", 
+    "url": "http://bcc.cma.gov.cn/en"
+}

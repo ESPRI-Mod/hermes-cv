@@ -1,0 +1,15 @@
+{
+    "description": "1 percent per year CO2", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.876605+00:00", 
+        "domain": "climate", 
+        "name": "1pctco2", 
+        "type": "experiment", 
+        "uid": "4414a1bd-55a1-4012-a67f-906cf6c095da"
+    }, 
+    "name": "1pctCO2"
+}

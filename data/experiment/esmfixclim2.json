@@ -1,0 +1,15 @@
+{
+    "description": "ESM fixed climate 2", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.886140+00:00", 
+        "domain": "climate", 
+        "name": "esmfixclim2", 
+        "type": "experiment", 
+        "uid": "583081e4-ec38-4cb6-b58d-91d3aae59097"
+    }, 
+    "name": "esmFixClim2"
+}

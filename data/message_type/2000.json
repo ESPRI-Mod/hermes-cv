@@ -1,0 +1,12 @@
+{
+    "description": "PushStack", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.914566+00:00", 
+        "domain": "climate", 
+        "name": "2000", 
+        "type": "message_type", 
+        "uid": "3076af91-6075-402d-8ae2-371e33524a8a"
+    }, 
+    "name": "2000"
+}

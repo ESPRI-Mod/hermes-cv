@@ -1,0 +1,15 @@
+{
+    "description": "historical simulation but with other individual forcing agents or combinations of forcings", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.888453+00:00", 
+        "domain": "climate", 
+        "name": "historicalmisc", 
+        "type": "experiment", 
+        "uid": "ef3233a6-e319-4cab-baba-2eebec3a17f7"
+    }, 
+    "name": "historicalMisc"
+}

@@ -1,0 +1,15 @@
+{
+    "description": "CO2 forcing", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.894216+00:00", 
+        "domain": "climate", 
+        "name": "sstclim4xco2", 
+        "type": "experiment", 
+        "uid": "24284ea4-6014-4c19-b738-a9ebfd3459ce"
+    }, 
+    "name": "sstClim4xCO2"
+}

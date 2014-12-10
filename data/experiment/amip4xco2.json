@@ -1,0 +1,15 @@
+{
+    "description": "4xCO2 AMIP", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.877659+00:00", 
+        "domain": "climate", 
+        "name": "amip4xco2", 
+        "type": "experiment", 
+        "uid": "d56229d7-a487-444f-85af-1943fd908fde"
+    }, 
+    "name": "amip4xCO2"
+}

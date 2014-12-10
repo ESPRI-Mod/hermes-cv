@@ -1,0 +1,13 @@
+{
+    "description": "British Atmospheric Data Centre", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.901434+00:00", 
+        "domain": "climate", 
+        "name": "badc", 
+        "type": "institute", 
+        "uid": "bd3c405e-1573-4ff5-8c0d-25640aa1dbb5"
+    }, 
+    "name": "BADC", 
+    "url": "http://badc.nerc.ac.uk"
+}

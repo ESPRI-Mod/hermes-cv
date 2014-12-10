@@ -1,0 +1,12 @@
+{
+    "description": "An sms message to be dispatched", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.912601+00:00", 
+        "domain": "climate", 
+        "name": "-3000", 
+        "type": "message_type", 
+        "uid": "d03ea8ed-6e11-4aa9-99b8-11cc83918fdc"
+    }, 
+    "name": "-3000"
+}

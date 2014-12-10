@@ -1,0 +1,13 @@
+{
+    "description": "University of Miami Rosenstiel School of Marine and Atmospheric Science", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.908189+00:00", 
+        "domain": "climate", 
+        "name": "rsmas", 
+        "type": "institute", 
+        "uid": "7a86a565-3a18-4dab-a659-920650e667c4"
+    }, 
+    "name": "RSMAS", 
+    "url": "http://www.rsmas.miami.edu"
+}

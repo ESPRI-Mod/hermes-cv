@@ -1,0 +1,14 @@
+{
+    "description": "Mineral dust", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.923634+00:00", 
+        "domain": "climate", 
+        "name": "md", 
+        "type": "model_forcing", 
+        "uid": "7ba973ca-071d-4fa6-8138-ad409eb9d498"
+    }, 
+    "name": "MD"
+}

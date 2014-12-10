@@ -1,0 +1,12 @@
+{
+    "description": "Test", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.915109+00:00", 
+        "domain": "climate", 
+        "name": "7000", 
+        "type": "message_type", 
+        "uid": "4ee055aa-553b-4efc-b4d4-88e94ed9cc29"
+    }, 
+    "name": "7000"
+}

@@ -1,0 +1,16 @@
+{
+    "email": "Sophie.Szopa@lsce.ipsl.fr", 
+    "family_name": "Szopa", 
+    "first_name": "Sophie", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.867166+00:00", 
+        "domain": "climate", 
+        "name": "p24lava", 
+        "type": "compute_node_login", 
+        "uid": "93826030-9eb5-4ff0-9d5e-e1d761a0cf9b"
+    }, 
+    "name": "p24lava"
+}

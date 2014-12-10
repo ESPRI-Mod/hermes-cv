@@ -1,0 +1,15 @@
+{
+    "description": "sulfate aerosol forcing", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.895059+00:00", 
+        "domain": "climate", 
+        "name": "sstclimsulfate", 
+        "type": "experiment", 
+        "uid": "6d0eb1f4-6165-40ea-960a-1ac17bd11753"
+    }, 
+    "name": "sstClimSulfate"
+}

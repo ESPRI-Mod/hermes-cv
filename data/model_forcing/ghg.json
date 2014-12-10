@@ -1,0 +1,15 @@
+{
+    "description": "Well-mixed greenhouse gases", 
+    "long_description": "Well-mixed greenhouse gases (a mixture, not explicitly defined here)", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.923208+00:00", 
+        "domain": "climate", 
+        "name": "ghg", 
+        "type": "model_forcing", 
+        "uid": "4488b29e-a285-4c25-bde7-0e41d71128dc"
+    }, 
+    "name": "GHG"
+}

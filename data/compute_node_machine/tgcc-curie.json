@@ -1,0 +1,18 @@
+{
+    "manafacturer": "IBM", 
+    "meta": {
+        "associations": [
+            "compute_node.tgcc"
+        ], 
+        "create_date": "2014-12-10T14:16:58.870107+00:00", 
+        "domain": "climate", 
+        "name": "tgcc-curie", 
+        "type": "compute_node_machine", 
+        "uid": "e2a75034-0cd1-48e3-8fa7-31e93623437d"
+    }, 
+    "name": "TGCC-CURIE", 
+    "synonyms": [
+        "CURIE"
+    ], 
+    "type": "PW6"
+}

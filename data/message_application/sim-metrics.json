@@ -1,0 +1,12 @@
+{
+    "description": "Simulation metrics", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.909617+00:00", 
+        "domain": "climate", 
+        "name": "sim-metrics", 
+        "type": "message_application", 
+        "uid": "48fca182-33c5-4de2-adf9-700a3d1dc2f8"
+    }, 
+    "name": "sim-metrics"
+}

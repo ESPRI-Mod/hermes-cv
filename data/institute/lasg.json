@@ -1,0 +1,13 @@
+{
+    "description": "Laboratory of Numerical Modeling for Atmospheric Sciences and Geophysical Fluid Dynamics", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.904776+00:00", 
+        "domain": "climate", 
+        "name": "lasg", 
+        "type": "institute", 
+        "uid": "9b9f91d3-4ea0-4376-948a-dad84280b83a"
+    }, 
+    "name": "LASG", 
+    "url": "http://www.lasg.ac.cn"
+}

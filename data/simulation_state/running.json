@@ -1,0 +1,12 @@
+{
+    "description": "Process has been setup and is awaiting execution.", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.929482+00:00", 
+        "domain": "climate", 
+        "name": "running", 
+        "type": "simulation_state", 
+        "uid": "0bb114c4-b717-4e48-ad9a-22f52cf83046"
+    }, 
+    "name": "RUNNING"
+}

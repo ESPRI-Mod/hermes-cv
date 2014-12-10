@@ -1,0 +1,13 @@
+{
+    "description": "IPSL research and development", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.856053+00:00", 
+        "domain": "climate", 
+        "name": "ipsl", 
+        "type": "activity", 
+        "uid": "c6676852-da67-4c8f-b2a1-367dd0d34ba6"
+    }, 
+    "name": "IPSL", 
+    "url": "http://www.ipsl.fr/"
+}

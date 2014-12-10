@@ -1,0 +1,18 @@
+{
+    "manafacturer": "NEC", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.868851+00:00", 
+        "domain": "climate", 
+        "name": "ccrt-sx9", 
+        "type": "compute_node_machine", 
+        "uid": "d00f2550-694a-4663-8059-11b039b22bfb"
+    }, 
+    "name": "CCRT-SX9", 
+    "synonyms": [
+        "SX9"
+    ], 
+    "type": "SX9"
+}

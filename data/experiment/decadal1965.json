@@ -1,0 +1,15 @@
+{
+    "description": "10- or 30-year run initialized in year 1965", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-longterm"
+        ], 
+        "create_date": "2014-12-10T14:16:58.879262+00:00", 
+        "domain": "climate", 
+        "name": "decadal1965", 
+        "type": "experiment", 
+        "uid": "271961d6-b885-44e3-acba-35ab694ee7d6"
+    }, 
+    "name": "decadal1965"
+}

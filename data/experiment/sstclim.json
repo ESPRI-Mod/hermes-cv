@@ -1,0 +1,15 @@
+{
+    "description": "control SST climatology", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.893857+00:00", 
+        "domain": "climate", 
+        "name": "sstclim", 
+        "type": "experiment", 
+        "uid": "908ad559-e1ed-4ffc-8f19-3d4f0fc1f7e5"
+    }, 
+    "name": "sstClim"
+}

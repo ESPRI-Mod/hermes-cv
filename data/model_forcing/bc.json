@@ -1,0 +1,14 @@
+{
+    "description": "Black carbon", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.922635+00:00", 
+        "domain": "climate", 
+        "name": "bc", 
+        "type": "model_forcing", 
+        "uid": "ada3eace-8ad9-4be1-b1e9-ebfb019d453d"
+    }, 
+    "name": "BC"
+}

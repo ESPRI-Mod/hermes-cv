@@ -1,0 +1,12 @@
+{
+    "description": "Process error occurred.", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.930647+00:00", 
+        "domain": "climate", 
+        "name": "error", 
+        "type": "simulation_state", 
+        "uid": "d7cdb7b0-d993-4cae-bdef-ca134a313321"
+    }, 
+    "name": "ERROR"
+}

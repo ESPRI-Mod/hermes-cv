@@ -1,0 +1,15 @@
+{
+    "description": "prediction with 2010 volcano", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-longterm"
+        ], 
+        "create_date": "2014-12-10T14:16:58.895424+00:00", 
+        "domain": "climate", 
+        "name": "volcin2010", 
+        "type": "experiment", 
+        "uid": "ccd00ed0-e049-4f82-a6b9-56a70163b39e"
+    }, 
+    "name": "volcIn2010"
+}

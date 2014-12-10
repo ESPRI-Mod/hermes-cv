@@ -1,0 +1,12 @@
+{
+    "description": "Process is being rolled back.", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.930297+00:00", 
+        "domain": "climate", 
+        "name": "rollback", 
+        "type": "simulation_state", 
+        "uid": "35c5df5a-c7a7-4fba-afcc-48d3b2d5e04a"
+    }, 
+    "name": "ROLLBACK"
+}

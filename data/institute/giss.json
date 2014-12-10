@@ -1,0 +1,13 @@
+{
+    "description": "Goddard Institute for Space Studies", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.904038+00:00", 
+        "domain": "climate", 
+        "name": "giss", 
+        "type": "institute", 
+        "uid": "4e4f9df6-c930-41f8-87da-aca12ad55293"
+    }, 
+    "name": "GISS", 
+    "url": "http://www.giss.nasa.gov"
+}

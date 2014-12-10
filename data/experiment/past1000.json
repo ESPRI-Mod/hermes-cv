@@ -1,0 +1,15 @@
+{
+    "description": "last millennium", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.891592+00:00", 
+        "domain": "climate", 
+        "name": "past1000", 
+        "type": "experiment", 
+        "uid": "bdc24551-bfdc-4b5e-9729-3b15b23ff18d"
+    }, 
+    "name": "past1000"
+}

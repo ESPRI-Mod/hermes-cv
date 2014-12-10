@@ -1,0 +1,13 @@
+{
+    "description": "Geophysical Fluid Dynamics Laboratory", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.903832+00:00", 
+        "domain": "climate", 
+        "name": "gfdl", 
+        "type": "institute", 
+        "uid": "5af82d2b-d008-4b88-927b-393015acb337"
+    }, 
+    "name": "GFDL", 
+    "url": "http://www.gfdl.noaa.gov"
+}

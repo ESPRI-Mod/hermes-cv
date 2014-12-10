@@ -1,0 +1,18 @@
+{
+    "manafacturer": "IBM", 
+    "meta": {
+        "associations": [
+            "compute_node.idris"
+        ], 
+        "create_date": "2014-12-10T14:16:58.869881+00:00", 
+        "domain": "climate", 
+        "name": "idris-vargas", 
+        "type": "compute_node_machine", 
+        "uid": "963c4069-5dea-43d6-9edc-a8418d2578a2"
+    }, 
+    "name": "IDRIS-VARGAS", 
+    "synonyms": [
+        "VARGAS"
+    ], 
+    "type": "PW6"
+}

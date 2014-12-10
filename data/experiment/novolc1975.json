@@ -1,0 +1,15 @@
+{
+    "description": "volcano-free hindcasts initiated in 1975", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-longterm"
+        ], 
+        "create_date": "2014-12-10T14:16:58.890165+00:00", 
+        "domain": "climate", 
+        "name": "novolc1975", 
+        "type": "experiment", 
+        "uid": "cf15f522-e3e3-4890-ae45-86146211b548"
+    }, 
+    "name": "noVolc1975"
+}

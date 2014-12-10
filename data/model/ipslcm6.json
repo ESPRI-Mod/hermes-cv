@@ -1,0 +1,14 @@
+{
+    "description": "IPSL Climate Model 6", 
+    "meta": {
+        "associations": [
+            "institute.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.918772+00:00", 
+        "domain": "climate", 
+        "name": "ipslcm6", 
+        "type": "model", 
+        "uid": "6dd25f7e-dd27-458e-a521-7103148a248b"
+    }, 
+    "name": "IPSLCM6"
+}

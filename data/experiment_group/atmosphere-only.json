@@ -1,0 +1,14 @@
+{
+    "description": "Atmosphere Only", 
+    "meta": {
+        "associations": [
+            "activity.cmip5"
+        ], 
+        "create_date": "2014-12-10T14:16:58.896630+00:00", 
+        "domain": "climate", 
+        "name": "atmosphere-only", 
+        "type": "experiment_group", 
+        "uid": "82ef4ffb-0efb-4a7b-bbd2-f3250cbe3ffe"
+    }, 
+    "name": "atmosphere-only"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "Simulation monitoring", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.908975+00:00", 
+        "domain": "climate", 
+        "name": "monitoring", 
+        "type": "message_application", 
+        "uid": "3a7eed8b-ed96-4129-b1ea-cb49dfd249c3"
+    }, 
+    "name": "monitoring"
+}

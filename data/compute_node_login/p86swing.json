@@ -1,0 +1,16 @@
+{
+    "email": "Didier.Swingedouw@lsce.ipsl.fr", 
+    "family_name": "Swingedouw", 
+    "first_name": "Didier", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.866947+00:00", 
+        "domain": "climate", 
+        "name": "p86swing", 
+        "type": "compute_node_login", 
+        "uid": "869408bd-40fe-4671-bfb1-fbee37f257f1"
+    }, 
+    "name": "p86swing"
+}

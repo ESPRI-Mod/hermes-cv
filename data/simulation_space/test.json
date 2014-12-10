@@ -1,0 +1,12 @@
+{
+    "description": "Pre-production testing", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.928508+00:00", 
+        "domain": "climate", 
+        "name": "test", 
+        "type": "simulation_space", 
+        "uid": "2f81d7ad-9ece-42f8-b129-af8dc784c81a"
+    }, 
+    "name": "TEST"
+}

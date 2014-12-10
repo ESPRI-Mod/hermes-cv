@@ -1,0 +1,15 @@
+{
+    "description": "historical, well-mixed greenhouse gases only", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.888084+00:00", 
+        "domain": "climate", 
+        "name": "historicalghg", 
+        "type": "experiment", 
+        "uid": "8828dbe7-8577-4bc3-8be5-75ac91352626"
+    }, 
+    "name": "historicalGHG"
+}

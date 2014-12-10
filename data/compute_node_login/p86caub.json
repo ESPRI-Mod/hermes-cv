@@ -1,0 +1,16 @@
+{
+    "email": "Arnaud.Caubel@lsce.ipsl.fr", 
+    "family_name": "Caubel", 
+    "first_name": "Arnaud", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.861880+00:00", 
+        "domain": "climate", 
+        "name": "p86caub", 
+        "type": "compute_node_login", 
+        "uid": "2674c0d7-9782-48dc-8522-46208fe11ddd"
+    }, 
+    "name": "p86caub"
+}

@@ -1,0 +1,14 @@
+{
+    "description": "Coupled Long-Term", 
+    "meta": {
+        "associations": [
+            "activity.cmip5"
+        ], 
+        "create_date": "2014-12-10T14:16:58.897362+00:00", 
+        "domain": "climate", 
+        "name": "coupled-longterm", 
+        "type": "experiment_group", 
+        "uid": "8581a875-1e1c-409c-9d70-bde968437444"
+    }, 
+    "name": "coupled-longterm"
+}

@@ -1,0 +1,15 @@
+{
+    "description": "ESM historical", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.886378+00:00", 
+        "domain": "climate", 
+        "name": "esmhistorical", 
+        "type": "experiment", 
+        "uid": "60d52b7b-25ec-4d16-a9c8-00fe880f3a33"
+    }, 
+    "name": "esmHistorical"
+}

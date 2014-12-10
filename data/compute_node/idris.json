@@ -1,0 +1,14 @@
+{
+    "description": "Institut du Developpement et des Ressources en Informatique Scientifique", 
+    "dods_server_url": "https://prodn.idris.fr/thredds/fileServer/IDRISPUBFS", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.857431+00:00", 
+        "domain": "climate", 
+        "name": "idris", 
+        "type": "compute_node", 
+        "uid": "53d0dd59-b9be-4116-8c67-46fb0c847eb7"
+    }, 
+    "name": "IDRIS", 
+    "url": "http://www.idris.fr/index.html"
+}

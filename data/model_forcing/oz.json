@@ -1,0 +1,18 @@
+{
+    "description": "Ozone", 
+    "long_description": "Ozone (= tropomfheric and stratomfheric ozone)", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.924552+00:00", 
+        "domain": "climate", 
+        "name": "oz", 
+        "type": "model_forcing", 
+        "uid": "5ea42e5e-f2b1-4840-a956-c2986a97125f"
+    }, 
+    "name": "Oz", 
+    "synonyms": [
+        "Oz(=To+So)"
+    ]
+}

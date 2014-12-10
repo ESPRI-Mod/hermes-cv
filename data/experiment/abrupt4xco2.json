@@ -1,0 +1,15 @@
+{
+    "description": "abrupt 4XCO2", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.876915+00:00", 
+        "domain": "climate", 
+        "name": "abrupt4xco2", 
+        "type": "experiment", 
+        "uid": "1bd26e26-d7a1-4de7-8649-30e595339f74"
+    }, 
+    "name": "abrupt4xCO2"
+}

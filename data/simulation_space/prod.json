@@ -1,0 +1,12 @@
+{
+    "description": "Principal, candidate", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.928191+00:00", 
+        "domain": "climate", 
+        "name": "prod", 
+        "type": "simulation_space", 
+        "uid": "133f4e82-5703-4103-a52b-c0b2c87aa255"
+    }, 
+    "name": "PROD"
+}

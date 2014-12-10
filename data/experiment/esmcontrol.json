@@ -1,0 +1,15 @@
+{
+    "description": "ESM pre-industrial control", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.885093+00:00", 
+        "domain": "climate", 
+        "name": "esmcontrol", 
+        "type": "experiment", 
+        "uid": "b9424d60-2825-4775-8b79-fb908587b2d5"
+    }, 
+    "name": "esmControl"
+}

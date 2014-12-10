@@ -1,0 +1,15 @@
+{
+    "description": "AMIP plus 4K anomaly", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.877421+00:00", 
+        "domain": "climate", 
+        "name": "amip4k", 
+        "type": "experiment", 
+        "uid": "ad43e3ca-66ce-4f20-9747-80e8944b769a"
+    }, 
+    "name": "amip4K"
+}

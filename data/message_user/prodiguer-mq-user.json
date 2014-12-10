@@ -1,0 +1,12 @@
+{
+    "description": "Internal prodiguer system user", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.916514+00:00", 
+        "domain": "climate", 
+        "name": "prodiguer-mq-user", 
+        "type": "message_user", 
+        "uid": "65125786-56ac-4b94-9c34-c884a2cd720a"
+    }, 
+    "name": "prodiguer-mq-user"
+}

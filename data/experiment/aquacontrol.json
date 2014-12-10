@@ -1,0 +1,15 @@
+{
+    "description": "aqua planet control", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.878708+00:00", 
+        "domain": "climate", 
+        "name": "aquacontrol", 
+        "type": "experiment", 
+        "uid": "fbbb64e8-0f94-4bfd-b863-7048954fc2c5"
+    }, 
+    "name": "aquaControl"
+}

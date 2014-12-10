@@ -1,0 +1,13 @@
+{
+    "description": "National Center for Atmospheric Research", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.906415+00:00", 
+        "domain": "climate", 
+        "name": "ncar", 
+        "type": "institute", 
+        "uid": "c7794c80-f3e1-4b66-8c52-67a3a134b905"
+    }, 
+    "name": "NCAR", 
+    "url": "http://ncar.ucar.edu"
+}

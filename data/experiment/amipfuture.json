@@ -1,0 +1,15 @@
+{
+    "description": "AMIP plus patterned anomaly", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.877916+00:00", 
+        "domain": "climate", 
+        "name": "amipfuture", 
+        "type": "experiment", 
+        "uid": "04721197-13eb-49a6-8858-fda2b5d09980"
+    }, 
+    "name": "amipFuture"
+}

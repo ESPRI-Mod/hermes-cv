@@ -1,0 +1,13 @@
+{
+    "description": "National Institute of Meterological Research/Korea Meteorological Administration", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.907110+00:00", 
+        "domain": "climate", 
+        "name": "nmr-kma", 
+        "type": "institute", 
+        "uid": "8e023f6a-8718-409b-b30c-a0e808fa743e"
+    }, 
+    "name": "NMR-KMA", 
+    "url": "http://www.nimr.go.kr/MA/main.jsp"
+}

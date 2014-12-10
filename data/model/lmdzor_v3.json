@@ -1,0 +1,17 @@
+{
+    "description": "LMD CMIP5 model - atmosphere only", 
+    "meta": {
+        "associations": [
+            "institute.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.918396+00:00", 
+        "domain": "climate", 
+        "name": "lmdzor_v3", 
+        "type": "model", 
+        "uid": "6510e8f5-16cb-4038-8237-44da62db1f3a"
+    }, 
+    "name": "LMDZOR_v3", 
+    "synonyms": [
+        "LMDZOR"
+    ]
+}

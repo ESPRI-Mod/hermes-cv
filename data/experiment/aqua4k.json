@@ -1,0 +1,15 @@
+{
+    "description": "aqua planet plus 4K anomaly", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.878169+00:00", 
+        "domain": "climate", 
+        "name": "aqua4k", 
+        "type": "experiment", 
+        "uid": "3ac37d33-abb5-4392-b6b3-92711f07706f"
+    }, 
+    "name": "aqua4K"
+}

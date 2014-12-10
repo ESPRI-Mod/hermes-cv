@@ -1,0 +1,13 @@
+{
+    "description": "Program For Climate Model Diagnosis and Intercomparison", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.907827+00:00", 
+        "domain": "climate", 
+        "name": "pcmdi", 
+        "type": "institute", 
+        "uid": "2d9b9906-46f2-461e-b1b3-55ef7f22615d"
+    }, 
+    "name": "PCMDI", 
+    "url": "http://www-pcmdi.llnl.gov"
+}

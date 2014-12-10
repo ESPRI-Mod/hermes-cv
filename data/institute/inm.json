@@ -1,0 +1,13 @@
+{
+    "description": "Institute of Numerical Mathematics", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.904255+00:00", 
+        "domain": "climate", 
+        "name": "inm", 
+        "type": "institute", 
+        "uid": "cc8fad86-b576-4683-9f4b-c014eb72f732"
+    }, 
+    "name": "INM", 
+    "url": "http://www.inm.ras.ru"
+}

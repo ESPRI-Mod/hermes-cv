@@ -1,0 +1,13 @@
+{
+    "description": "Centro Euro-Mediterraneo per i Cambiamenti Climatici", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.902404+00:00", 
+        "domain": "climate", 
+        "name": "cmcc", 
+        "type": "institute", 
+        "uid": "003ebd52-7eba-4110-b95e-56b3707852b6"
+    }, 
+    "name": "CMCC", 
+    "url": "http://www.cmcc.it"
+}

@@ -1,0 +1,15 @@
+{
+    "description": "Anthropogenic aerosols", 
+    "long_description": "Anthropogenic aerosols (a mixture of aerosols, not explicitly defined here)", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.922039+00:00", 
+        "domain": "climate", 
+        "name": "aa", 
+        "type": "model_forcing", 
+        "uid": "575c6ad2-19d3-46f4-9336-86fd83bf81c3"
+    }, 
+    "name": "AA"
+}

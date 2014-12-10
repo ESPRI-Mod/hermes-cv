@@ -1,0 +1,16 @@
+{
+    "email": "Pascale.Braconnot@lsce.ipsl.fr", 
+    "family_name": "Braconnot", 
+    "first_name": "Pascale", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.861395+00:00", 
+        "domain": "climate", 
+        "name": "p86pasb", 
+        "type": "compute_node_login", 
+        "uid": "50060ad9-18e4-4d7a-befc-76f95d767f30"
+    }, 
+    "name": "p86pasb"
+}

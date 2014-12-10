@@ -1,0 +1,15 @@
+{
+    "description": "last glacial maximum", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.889056+00:00", 
+        "domain": "climate", 
+        "name": "lgm", 
+        "type": "experiment", 
+        "uid": "47bf5729-337d-4ac0-83a0-b53c3d3038e9"
+    }, 
+    "name": "lgm"
+}

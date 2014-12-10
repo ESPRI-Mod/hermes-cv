@@ -1,0 +1,16 @@
+{
+    "email": "Martial.Mancip@ipsl.jussieu.fr", 
+    "family_name": "Mancip", 
+    "first_name": "Martial", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.865413+00:00", 
+        "domain": "climate", 
+        "name": "p86manci", 
+        "type": "compute_node_login", 
+        "uid": "88054194-bd70-4695-8fb3-a31079400a6d"
+    }, 
+    "name": "p86manci"
+}

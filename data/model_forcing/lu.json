@@ -1,0 +1,14 @@
+{
+    "description": "Land-use change", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.923423+00:00", 
+        "domain": "climate", 
+        "name": "lu", 
+        "type": "model_forcing", 
+        "uid": "efe3e458-0fd2-416f-9f85-0c191fbeea87"
+    }, 
+    "name": "LU"
+}

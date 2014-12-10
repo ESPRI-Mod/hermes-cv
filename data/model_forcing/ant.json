@@ -1,0 +1,15 @@
+{
+    "description": "Anthropogenic forcing", 
+    "long_description": "Anthropogenic forcing (a mixture, not explicitly defined here, that might include, for example, well-mixed greenhouse gases, aerosols, ozone, and land-use changes)", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.922375+00:00", 
+        "domain": "climate", 
+        "name": "ant", 
+        "type": "model_forcing", 
+        "uid": "9621e36b-351c-403b-9724-6d0a80d85504"
+    }, 
+    "name": "Ant"
+}

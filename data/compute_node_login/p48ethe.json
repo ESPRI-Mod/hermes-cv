@@ -1,0 +1,16 @@
+{
+    "email": "Christian.Ethe@ipsl.jussieu.fr", 
+    "family_name": "Ethe", 
+    "first_name": "Christian", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.863043+00:00", 
+        "domain": "climate", 
+        "name": "p48ethe", 
+        "type": "compute_node_login", 
+        "uid": "1a56c4dc-d057-4f72-a669-89971d7f68b7"
+    }, 
+    "name": "p48ethe"
+}

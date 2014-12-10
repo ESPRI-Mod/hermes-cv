@@ -1,0 +1,15 @@
+{
+    "description": "Natural forcing", 
+    "long_description": "Natural forcing (a combination, not explicitly defined here, that might include, for example, solar and volcanic)", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.923943+00:00", 
+        "domain": "climate", 
+        "name": "nat", 
+        "type": "model_forcing", 
+        "uid": "aed71f92-812c-4697-ad37-ae427985466d"
+    }, 
+    "name": "Nat"
+}

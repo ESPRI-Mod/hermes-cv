@@ -1,0 +1,17 @@
+{
+    "description": "IPSL ORCHIDEE model", 
+    "meta": {
+        "associations": [
+            "institute.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.919035+00:00", 
+        "domain": "climate", 
+        "name": "orchidee", 
+        "type": "model", 
+        "uid": "ae033472-92dc-489a-899b-916d0a1bf57d"
+    }, 
+    "name": "ORCHIDEE", 
+    "synonyms": [
+        "ORCHIDEE_OL"
+    ]
+}

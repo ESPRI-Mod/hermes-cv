@@ -1,0 +1,13 @@
+{
+    "description": "Canadian Centre for Climate Modelling and Analysis", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.902168+00:00", 
+        "domain": "climate", 
+        "name": "cccma", 
+        "type": "institute", 
+        "uid": "a83a5b1f-c5f8-4225-9901-05666f3c6832"
+    }, 
+    "name": "CCCMA", 
+    "url": "http://www.cccma.bc.ec.gc.ca"
+}

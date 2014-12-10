@@ -1,0 +1,14 @@
+{
+    "description": "Anthropogenic sulfate aerosol, accounting only for direct effects", 
+    "meta": {
+        "associations": [
+            "activity.ipsl"
+        ], 
+        "create_date": "2014-12-10T14:16:58.925117+00:00", 
+        "domain": "climate", 
+        "name": "sd", 
+        "type": "model_forcing", 
+        "uid": "090df350-4f48-4837-ac38-9da9d54fdea5"
+    }, 
+    "name": "SD"
+}

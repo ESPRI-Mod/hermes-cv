@@ -1,0 +1,15 @@
+{
+    "description": "2030 time-slice", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.coupled-decadal"
+        ], 
+        "create_date": "2014-12-10T14:16:58.893494+00:00", 
+        "domain": "climate", 
+        "name": "sst2030", 
+        "type": "experiment", 
+        "uid": "771c8015-c244-4a2e-8b45-ca6b92726bb6"
+    }, 
+    "name": "sst2030"
+}

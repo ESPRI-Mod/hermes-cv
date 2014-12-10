@@ -1,0 +1,16 @@
+{
+    "email": "Patricia.Cadule@ipsl.jussieu.fr", 
+    "family_name": "Cadule", 
+    "first_name": "Patricia", 
+    "meta": {
+        "associations": [
+            "compute_node.ccrt"
+        ], 
+        "create_date": "2014-12-10T14:16:58.861621+00:00", 
+        "domain": "climate", 
+        "name": "p86cadul", 
+        "type": "compute_node_login", 
+        "uid": "33e5727c-804b-4198-aa81-2de749950fb6"
+    }, 
+    "name": "p86cadul"
+}

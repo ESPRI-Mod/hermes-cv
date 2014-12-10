@@ -1,0 +1,13 @@
+{
+    "description": "Institut Pierre Simon Laplace", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.904460+00:00", 
+        "domain": "climate", 
+        "name": "ipsl", 
+        "type": "institute", 
+        "uid": "0fd82fa5-8d0a-410b-b998-b41f67acfff3"
+    }, 
+    "name": "IPSL", 
+    "url": "https://www.ipsl.fr"
+}

@@ -1,0 +1,13 @@
+{
+    "description": "A COordinated Regional climate Downscaling EXperiment", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2014-12-10T14:16:58.855847+00:00", 
+        "domain": "climate", 
+        "name": "cordex", 
+        "type": "activity", 
+        "uid": "d9650bd0-9e92-4ed7-a290-48b08d22e994"
+    }, 
+    "name": "CORDEX", 
+    "url": "http://copes.ipsl.jussieu.fr/RCD_CORDEX.html"
+}

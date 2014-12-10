@@ -1,0 +1,15 @@
+{
+    "description": "pre-industrial control", 
+    "meta": {
+        "associations": [
+            "activity.cmip5", 
+            "experiment_group.atmosphere-only"
+        ], 
+        "create_date": "2014-12-10T14:16:58.891826+00:00", 
+        "domain": "climate", 
+        "name": "picontrol", 
+        "type": "experiment", 
+        "uid": "6fb1465c-5938-401d-94ce-007931a97edf"
+    }, 
+    "name": "piControl"
+}
