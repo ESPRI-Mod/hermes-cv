@@ -1,6 +1,6 @@
 {
     "description": "Centre de Calcul Recherche et Technologie", 
-    "dods_server_url": "https://esgf.extra.cea.fr/thredds/fileServer/DODSWORK", 
+    "dods_server_url": "https://esgf.extra.cea.fr/thredds/fileServer/WORK", 
     "meta": {
         "associations": [], 
         "create_date": "2014-12-10T14:16:58.857156+00:00", 
@@ -12,3 +12,4 @@
     "name": "CCRT", 
     "url": "http://www-ccrt.cea.fr/"
 }
+
