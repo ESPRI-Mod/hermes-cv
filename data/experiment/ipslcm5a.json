@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-15T15:27:21.927050+00:00", 
+        "name": "ipslcm5a", 
+        "type": "experiment", 
+        "uid": "cddd58dd-80ae-47e2-85d5-b62e43ac9564"
+    }, 
+    "name": "IPSLCM5A"
+}
