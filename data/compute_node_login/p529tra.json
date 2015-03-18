@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-18T16:01:19.198491+00:00", 
+        "name": "p529tra", 
+        "display_name": "p529tra", 
+        "type": "compute_node_login", 
+        "uid": "bd22fb9e-e351-4506-8e1c-f93a2e9eb061"
+    }
+}
