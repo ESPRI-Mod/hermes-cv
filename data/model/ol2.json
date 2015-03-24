@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-24T13:06:33.309526+00:00", 
+        "name": "ol2", 
+        "display_name": "ol2", 
+        "type": "model", 
+        "uid": "e7907855-0335-4010-bd28-ede55771c86b"
+    }
+}
