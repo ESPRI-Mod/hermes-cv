@@ -3,7 +3,6 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-<<<<<<< HEAD
         "create_date": "2015-01-29T13:00:13.892560+00:00", 
         "name": "p529tra", 
         "type": "compute_node_login", 
@@ -11,12 +10,4 @@
     }, 
     "description": "p529tra", 
     "name": "p529tra"
-=======
-        "create_date": "2015-03-18T16:01:19.198491+00:00", 
-        "name": "p529tra", 
-        "display_name": "p529tra", 
-        "type": "compute_node_login", 
-        "uid": "bd22fb9e-e351-4506-8e1c-f93a2e9eb061"
-    }
->>>>>>> 3a796597dcbab56f2bfda8a2379b18573bc4bb95
 }
