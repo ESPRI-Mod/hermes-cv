@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-02-02T14:50:47.713644+00:00", 
+        "name": "p86ggas", 
+        "type": "compute_node_login", 
+        "uid": "4e98429c-60a2-464b-b4c3-3e8f5ca094ea"
+    }, 
+    "description": "p86ggas", 
+    "name": "p86ggas"
+}

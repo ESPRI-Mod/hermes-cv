@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-20T08:24:42.855299+00:00", 
+        "name": "clevy", 
+        "display_name": "clevy", 
+        "type": "compute_node_login", 
+        "uid": "d1f22244-8a7f-40b3-827d-ff6872fd9c86"
+    }
+}

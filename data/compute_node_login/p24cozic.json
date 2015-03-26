@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-14T08:54:29.629844+00:00", 
+        "name": "p24cozic", 
+        "type": "compute_node_login", 
+        "uid": "6b119c56-ca3d-4718-a001-922d4b4a1d26"
+    }, 
+    "description": "p24cozic", 
+    "name": "p24cozic"
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-19T09:47:52.156405+00:00", 
+        "name": "p25poula", 
+        "display_name": "p25poula", 
+        "type": "compute_node_login", 
+        "uid": "d711b188-6bfe-4842-85f2-9f64c728b799"
+    }
+}

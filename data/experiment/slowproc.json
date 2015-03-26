@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-20T11:43:58.973657+00:00", 
+        "name": "slowproc", 
+        "display_name": "slowproc", 
+        "type": "experiment", 
+        "uid": "87d9d575-f313-47f1-8575-387c66fba861"
+    }
+}

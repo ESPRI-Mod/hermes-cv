@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-19T15:28:34.320650+00:00", 
+        "name": "tann", 
+        "display_name": "tann", 
+        "type": "compute_node_login", 
+        "uid": "561db531-819b-489c-ae44-47d54c908656"
+    }
+}

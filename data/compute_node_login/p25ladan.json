@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-13T21:24:16.979422+00:00", 
+        "name": "p25ladan", 
+        "type": "compute_node_login", 
+        "uid": "02524121-6c90-45cd-bfca-eba5b7ad104c"
+    }, 
+    "description": "p25ladan", 
+    "name": "p25ladan"
+}

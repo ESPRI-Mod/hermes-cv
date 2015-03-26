@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-14T08:54:29.629995+00:00", 
+        "name": "inca5", 
+        "type": "experiment", 
+        "uid": "4f27ebed-4769-4d55-9ad0-ac1c1ab5110f"
+    }, 
+    "description": "INCA5", 
+    "name": "INCA5"
+}

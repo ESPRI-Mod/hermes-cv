@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-19T16:12:17.995264+00:00", 
+        "name": "nguyens", 
+        "display_name": "nguyens", 
+        "type": "compute_node_login", 
+        "uid": "710b0552-16cc-4a6d-b3c9-dc564b4be770"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-20T11:43:58.972584+00:00", 
+        "name": "jgipsl", 
+        "display_name": "jgipsl", 
+        "type": "compute_node_login", 
+        "uid": "f51fd8a8-7997-40ee-a5a8-c8daabd0492f"
+    }
+}

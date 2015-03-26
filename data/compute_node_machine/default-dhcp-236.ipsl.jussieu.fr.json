@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-20T11:43:58.973053+00:00", 
+        "name": "default-dhcp-236.ipsl.jussieu.fr", 
+        "display_name": "default-dhcp-236.ipsl.jussieu.fr", 
+        "type": "compute_node_machine", 
+        "uid": "312b17e5-c2a7-475d-899b-05ea2061fb9d"
+    }
+}

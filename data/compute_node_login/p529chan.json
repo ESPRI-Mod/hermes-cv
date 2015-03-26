@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-31T01:01:43.848217+00:00", 
+        "name": "p529chan", 
+        "type": "compute_node_login", 
+        "uid": "625909b0-de1d-4614-9b97-4bcd4fb98c72"
+    }, 
+    "description": "p529chan", 
+    "name": "p529chan"
+}

@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-28T17:24:36.315210+00:00", 
+        "name": "p25khod", 
+        "type": "compute_node_login", 
+        "uid": "dde9a38b-8a25-413b-9c36-71e3b6954499"
+    }, 
+    "description": "p25khod", 
+    "name": "p25khod"
+}

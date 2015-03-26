@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-17T06:39:49.622650+00:00", 
+        "name": "spredprec", 
+        "display_name": "spredprec", 
+        "type": "experiment", 
+        "uid": "8fcceb7c-7f2b-4669-b770-d1dbf32b9a12"
+    }
+}

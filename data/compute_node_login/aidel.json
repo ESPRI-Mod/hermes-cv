@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-19T11:50:10.181598+00:00", 
+        "name": "aidel", 
+        "type": "compute_node_login", 
+        "uid": "c2b61b58-9459-4e9a-b212-3f242ddc4c41"
+    }, 
+    "description": "aidel", 
+    "name": "aidel"
+}

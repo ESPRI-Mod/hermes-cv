@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-02-02T14:38:39.957137+00:00", 
+        "name": "isimip2blet", 
+        "type": "experiment", 
+        "uid": "1ffff64e-5f5f-408c-9f28-d5b1a0cb6b1f"
+    }, 
+    "description": "ISIMIP2BleT", 
+    "name": "ISIMIP2BleT"
+}

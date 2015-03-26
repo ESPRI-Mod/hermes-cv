@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-27T19:01:24.034599+00:00", 
+        "name": "linx", 
+        "type": "compute_node_login", 
+        "uid": "bfd3403f-1ffc-4c62-b259-14497c5a8205"
+    }, 
+    "description": "linx", 
+    "name": "linx"
+}

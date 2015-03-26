@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-30T10:30:01.314755+00:00", 
+        "name": "dust", 
+        "type": "experiment", 
+        "uid": "fc11e380-d5c0-4e06-a848-a6765a779d9d"
+    }, 
+    "description": "DUST", 
+    "name": "DUST"
+}

@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-27T22:00:13.518641+00:00", 
+        "name": "fluxn", 
+        "type": "experiment", 
+        "uid": "5023e92c-685b-4c10-84cc-adf63f987eb3"
+    }, 
+    "description": "fluxn", 
+    "name": "fluxn"
+}

@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-29T10:01:28.658365+00:00", 
+        "name": "nitrate", 
+        "type": "experiment", 
+        "uid": "b72c5430-ada2-48ec-95e3-5046168f6929"
+    }, 
+    "description": "NITRATE", 
+    "name": "NITRATE"
+}

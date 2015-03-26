@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-13T22:39:08.486446+00:00", 
+        "name": "lmdz", 
+        "type": "model", 
+        "uid": "adbc0c95-df48-46b2-b6cb-3eb009af2c9c"
+    }, 
+    "description": "lmdz", 
+    "name": "lmdz"
+}

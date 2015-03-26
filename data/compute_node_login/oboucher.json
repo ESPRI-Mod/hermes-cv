@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-23T13:25:37.734847+00:00", 
+        "name": "oboucher", 
+        "display_name": "oboucher", 
+        "type": "compute_node_login", 
+        "uid": "3b6d3d23-7f49-4c88-8494-95e12f9c1d17"
+    }
+}

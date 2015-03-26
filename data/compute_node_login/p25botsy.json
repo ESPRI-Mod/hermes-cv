@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-14T17:36:30.188540+00:00", 
+        "name": "p25botsy", 
+        "type": "compute_node_login", 
+        "uid": "41c5e88f-4464-4e25-85b8-0298666dc706"
+    }, 
+    "description": "p25botsy", 
+    "name": "p25botsy"
+}

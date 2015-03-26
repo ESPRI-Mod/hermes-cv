@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-18T12:29:10.715588+00:00", 
+        "name": "wangx", 
+        "display_name": "wangx", 
+        "type": "compute_node_login", 
+        "uid": "6bc9f7ee-3fed-4184-9657-4d821217837e"
+    }
+}

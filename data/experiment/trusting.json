@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-13T20:55:23.610233+00:00", 
+        "name": "trusting", 
+        "type": "experiment", 
+        "uid": "edf065a4-e5fb-4e59-90a3-7e4d231664ad"
+    }, 
+    "description": "trusting", 
+    "name": "trusting"
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-18T12:29:10.716552+00:00", 
+        "name": "cordex", 
+        "display_name": "cordex", 
+        "type": "experiment", 
+        "uid": "d43bf88f-a071-4bb5-805b-12a8bc5f3a9e"
+    }
+}

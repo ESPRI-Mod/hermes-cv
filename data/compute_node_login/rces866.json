@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-29T12:02:25.058781+00:00", 
+        "name": "rces866", 
+        "type": "compute_node_login", 
+        "uid": "59852f11-14b0-44b0-b6f4-6df39b7e9749"
+    }, 
+    "description": "rces866", 
+    "name": "rces866"
+}

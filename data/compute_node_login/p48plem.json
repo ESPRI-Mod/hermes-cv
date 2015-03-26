@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-24T16:32:25.641152+00:00", 
+        "name": "p48plem", 
+        "display_name": "p48plem", 
+        "type": "compute_node_login", 
+        "uid": "0a205ec3-f522-43c2-9657-8d81bbbfa779"
+    }
+}

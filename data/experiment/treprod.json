@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-30T15:18:36.336292+00:00", 
+        "name": "treprod", 
+        "type": "experiment", 
+        "uid": "5f1391ec-02cd-4fbf-a883-6b5fd65ba04d"
+    }, 
+    "description": "treprod", 
+    "name": "treprod"
+}

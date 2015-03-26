@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-19T15:28:34.321574+00:00", 
+        "name": "pliocene", 
+        "display_name": "pliocene", 
+        "type": "experiment", 
+        "uid": "49dffc44-305b-4df7-ace0-ff91e8aa6653"
+    }
+}

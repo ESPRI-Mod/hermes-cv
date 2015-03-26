@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-19T15:24:04.550246+00:00", 
+        "name": "mellull", 
+        "display_name": "mellull", 
+        "type": "compute_node_login", 
+        "uid": "3e430878-b040-4765-9e18-de2f9a157714"
+    }
+}

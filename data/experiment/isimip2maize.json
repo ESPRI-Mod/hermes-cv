@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-02-05T07:00:22.573862+00:00", 
+        "name": "isimip2maize", 
+        "display_name": "ISIMIP2Maize", 
+        "type": "experiment", 
+        "uid": "066196dd-bac4-4998-8c35-76e912a19d29"
+    }
+}

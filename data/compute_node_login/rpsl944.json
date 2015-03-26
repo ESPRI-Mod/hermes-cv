@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-01-29T16:00:13.578654+00:00", 
+        "name": "rpsl944", 
+        "type": "compute_node_login", 
+        "uid": "71ef4bfc-6c06-48f1-bfc0-bf7bf821a324"
+    }, 
+    "description": "rpsl944", 
+    "name": "rpsl944"
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-18T11:47:39.958232+00:00", 
+        "name": "wangr", 
+        "display_name": "wangr", 
+        "type": "compute_node_login", 
+        "uid": "11e62ac2-954f-4622-9e80-6fd9174f34a7"
+    }
+}
