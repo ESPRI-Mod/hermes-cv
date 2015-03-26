@@ -3,6 +3,7 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
+<<<<<<< HEAD
         "create_date": "2015-01-13T22:42:16.452085+00:00", 
         "name": "clim", 
         "type": "experiment", 
@@ -10,4 +11,12 @@
     }, 
     "description": "clim", 
     "name": "clim"
+=======
+        "create_date": "2015-03-18T16:01:19.198866+00:00", 
+        "name": "clim", 
+        "display_name": "clim", 
+        "type": "experiment", 
+        "uid": "6c769fe2-0157-4a16-b1df-26fc6e37f9c5"
+    }
+>>>>>>> 3a796597dcbab56f2bfda8a2379b18573bc4bb95
 }

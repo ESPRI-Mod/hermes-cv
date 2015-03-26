@@ -3,6 +3,7 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
+<<<<<<< HEAD
         "create_date": "2015-01-13T21:05:56.449608+00:00", 
         "name": "ol2", 
         "type": "model", 
@@ -10,4 +11,12 @@
     }, 
     "description": "ol2", 
     "name": "ol2"
+=======
+        "create_date": "2015-03-24T13:06:33.309526+00:00", 
+        "name": "ol2", 
+        "display_name": "ol2", 
+        "type": "model", 
+        "uid": "e7907855-0335-4010-bd28-ede55771c86b"
+    }
+>>>>>>> 3a796597dcbab56f2bfda8a2379b18573bc4bb95
 }

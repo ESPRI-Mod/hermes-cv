@@ -3,10 +3,18 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
+<<<<<<< HEAD
         "create_date": "2015-03-17T06:39:49.622650+00:00", 
         "name": "spredprec", 
         "display_name": "spredprec", 
         "type": "experiment", 
         "uid": "8fcceb7c-7f2b-4669-b770-d1dbf32b9a12"
+=======
+        "create_date": "2015-03-18T10:29:53.955025+00:00", 
+        "name": "spredprec", 
+        "display_name": "spredprec", 
+        "type": "experiment", 
+        "uid": "84c315a0-c622-43cd-ac4d-18d98216764a"
+>>>>>>> 3a796597dcbab56f2bfda8a2379b18573bc4bb95
     }
 }

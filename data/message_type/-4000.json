@@ -1,0 +1,12 @@
+{
+    "description": "Notification that cv terms need to be pushed to remote GitHub repo", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-03-25T12:16:58.912601+00:00", 
+        "domain": "climate", 
+        "name": "-4000", 
+        "type": "message_type", 
+        "uid": "1c3a5fbf-e0e1-4c1f-9621-51a3977f8442"
+    }, 
+    "name": "-4000"
+}

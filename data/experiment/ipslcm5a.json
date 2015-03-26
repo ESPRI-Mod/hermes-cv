@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-01-15T15:27:21.927050+00:00", 
+        "create_date": "2015-03-13T11:11:36.245064+00:00", 
         "name": "ipslcm5a", 
+        "display_name": "IPSLCM5A", 
         "type": "experiment", 
-        "uid": "cddd58dd-80ae-47e2-85d5-b62e43ac9564"
-    }, 
-    "name": "IPSLCM5A"
+        "uid": "c6e722d1-4c46-4d73-9fca-95e59533b699"
+    }
 }
