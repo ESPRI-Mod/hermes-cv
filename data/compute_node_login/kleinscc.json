@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-03-31T15:29:24.229235+00:00", 
+        "name": "kleinscc", 
+        "display_name": "kleinscc", 
+        "type": "compute_node_login", 
+        "uid": "f7f194be-a3e3-4104-a686-7d7ff1888506"
+    }
+}

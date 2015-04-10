@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-04-01T14:18:53.930020+00:00", 
+        "name": "nmhc_aer", 
+        "display_name": "NMHC_AER", 
+        "type": "experiment", 
+        "uid": "197b6143-eb06-493b-897a-9111bfc4abac"
+    }
+}

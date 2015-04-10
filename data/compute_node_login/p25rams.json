@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-04-02T11:44:30.807263+00:00", 
+        "name": "p25rams", 
+        "display_name": "p25rams", 
+        "type": "compute_node_login", 
+        "uid": "df527763-11ae-489a-bd09-50f6a54d3fd4"
+    }
+}

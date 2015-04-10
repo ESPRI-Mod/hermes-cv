@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-04-08T12:21:15.518149+00:00", 
+        "name": "dust.xios", 
+        "display_name": "DUST.XIOS", 
+        "type": "experiment", 
+        "uid": "fc007064-6cc3-478b-8428-593c731f6577"
+    }
+}
