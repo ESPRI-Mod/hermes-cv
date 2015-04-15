@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-04-15T09:57:47.130937+00:00", 
+        "create_date": "2015-04-15T10:11:02.601001+00:00", 
         "name": "rpsl592", 
         "display_name": "rpsl592", 
         "type": "compute_node_login", 
-        "uid": "be46b185-67cb-473c-98a2-7506239938cc"
+        "uid": "c5468243-fd78-4e14-9025-51b306c5c093"
     }
 }

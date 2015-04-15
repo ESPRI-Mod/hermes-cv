@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-04-15T13:36:05.738309+00:00", 
+        "name": "nmhc_aer.xios", 
+        "display_name": "NMHC_AER.XIOS", 
+        "type": "experiment", 
+        "uid": "ba217ca9-ef05-414e-a5db-0320e95d37ec"
+    }
+}
