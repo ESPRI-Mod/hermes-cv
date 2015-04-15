@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-04-15T09:19:51.471840+00:00", 
+        "name": "rces011", 
+        "display_name": "rces011", 
+        "type": "compute_node_login", 
+        "uid": "8fbb18a6-1181-4e5d-b653-55b1891406c6"
+    }
+}
