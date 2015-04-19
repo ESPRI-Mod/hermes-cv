@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-04-19T16:16:40.847451+00:00", 
+        "create_date": "2015-04-19T16:16:55.241639+00:00", 
         "name": "solar", 
         "display_name": "Solar", 
         "type": "experiment", 
-        "uid": "afd957d0-d988-4b38-9f23-f80785f2dd12"
+        "uid": "b75d855e-bb98-4ec0-9749-176d437dbe97"
     }
 }
