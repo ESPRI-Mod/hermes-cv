@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-04-19T15:29:00.338254+00:00", 
+        "name": "rmism2tu", 
+        "display_name": "RMISM2tu", 
+        "type": "experiment", 
+        "uid": "c0fdb91c-9dad-495a-8d4b-750a777bcfb8"
+    }
+}
