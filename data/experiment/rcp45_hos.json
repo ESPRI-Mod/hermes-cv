@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-04-24T14:12:03.150424+00:00", 
+        "name": "rcp45_hos", 
+        "display_name": "rcp45_hos", 
+        "type": "experiment", 
+        "uid": "8609642b-aa66-4d4c-97e0-f5aa6604cbb4"
+    }
+}

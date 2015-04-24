@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-04-24T14:12:03.151099+00:00", 
+        "name": "prd", 
+        "display_name": "prd", 
+        "type": "simulation_space", 
+        "uid": "0574bae6-fec8-4746-a920-c2752443b5ac"
+    }
+}
