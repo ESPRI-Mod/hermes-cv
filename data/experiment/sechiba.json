@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-04-26T14:19:13.630717+00:00", 
+        "name": "sechiba", 
+        "display_name": "sechiba", 
+        "type": "experiment", 
+        "uid": "0635b8ee-acdd-4aac-af7e-88ac383c8cb1"
+    }
+}

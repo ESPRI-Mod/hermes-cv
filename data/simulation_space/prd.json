@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-04-24T14:12:03.151099+00:00", 
+        "create_date": "2015-04-24T15:24:54.241083+00:00", 
         "name": "prd", 
         "display_name": "prd", 
         "type": "simulation_space", 
-        "uid": "0574bae6-fec8-4746-a920-c2752443b5ac"
+        "uid": "7ebd8508-d33f-456d-a3f9-ef852d2c1af9"
     }
 }
