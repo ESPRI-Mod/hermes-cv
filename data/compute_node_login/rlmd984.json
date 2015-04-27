@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-04-26T14:19:13.629439+00:00", 
+        "create_date": "2015-04-26T16:37:29.869556+00:00", 
         "name": "rlmd984", 
         "display_name": "rlmd984", 
         "type": "compute_node_login", 
-        "uid": "f43da797-1996-414f-80c3-ecb985e6c897"
+        "uid": "e7bef1dd-8b1a-46a4-bf18-1d368453f0a1"
     }
 }
