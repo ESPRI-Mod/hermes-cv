@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-04-24T15:24:54.240435+00:00", 
+        "create_date": "2015-04-27T14:52:32.694956+00:00", 
         "name": "rcp45_hos", 
         "display_name": "rcp45_hos", 
         "type": "experiment", 
-        "uid": "faee6de1-7678-4394-b463-13ac5cb8d60f"
+        "uid": "b3ff3ea0-6563-453b-a53d-3147a929c041"
     }
 }
