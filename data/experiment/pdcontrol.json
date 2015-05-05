@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-05-05T12:05:59.441733+00:00", 
+        "name": "pdcontrol", 
+        "display_name": "pdControl", 
+        "type": "experiment", 
+        "uid": "a7ef8980-cbe7-4be1-bc13-84acf3020268"
+    }
+}
