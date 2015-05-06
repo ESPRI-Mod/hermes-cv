@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-05-06T10:23:21.235743+00:00", 
+        "name": "solarstep", 
+        "display_name": "SolarStep", 
+        "type": "experiment", 
+        "uid": "69ffd0c7-ff95-4361-a2e9-3ba8c39cd100"
+    }
+}
