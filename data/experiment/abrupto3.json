@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-05-11T06:58:33.407837+00:00", 
+        "create_date": "2015-05-11T06:59:00.004810+00:00", 
         "name": "abrupto3", 
         "display_name": "abruptO3", 
         "type": "experiment", 
-        "uid": "d61e40f5-acbe-44e3-a77d-7d39a1878b6c"
+        "uid": "500221f2-7f55-4aa9-94d0-3020c12d2141"
     }
 }

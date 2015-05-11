@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-05-11T06:58:33.406624+00:00", 
+        "create_date": "2015-05-11T06:59:00.003625+00:00", 
         "name": "rces311", 
         "display_name": "rces311", 
         "type": "compute_node_login", 
-        "uid": "c365f018-6a30-4035-b1d9-3fc3ffc40bd8"
+        "uid": "4a3db6da-de01-400c-a372-cadb694dc0c6"
     }
 }
