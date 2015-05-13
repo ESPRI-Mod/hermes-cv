@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-05-11T08:56:39.025262+00:00", 
+        "create_date": "2015-05-11T08:59:37.355939+00:00", 
         "name": "rdzt354", 
         "display_name": "rdzt354", 
         "type": "compute_node_login", 
-        "uid": "cf36ccdf-5b95-402b-b18d-b5d9cf7524fb"
+        "uid": "62a74a2b-2f26-42c2-8a29-0f73aae3d926"
     }
 }

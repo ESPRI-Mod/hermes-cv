@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-05-13T13:10:31.718339+00:00", 
+        "name": "aqua", 
+        "display_name": "aqua", 
+        "type": "experiment", 
+        "uid": "003941ee-51c2-4acd-95c4-43001e9d2d89"
+    }
+}
