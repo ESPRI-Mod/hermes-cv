@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-05-13T13:24:10.434658+00:00", 
+        "name": "amipo3", 
+        "display_name": "amipO3", 
+        "type": "experiment", 
+        "uid": "1e756522-199c-4177-a53e-69101256087f"
+    }
+}
