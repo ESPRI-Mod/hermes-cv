@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-05-15T11:10:40.627477+00:00", 
+        "name": "mis3", 
+        "display_name": "MIS3", 
+        "type": "experiment", 
+        "uid": "917f9615-aa5d-490a-b8e1-07e0d0228a8f"
+    }
+}
