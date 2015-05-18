@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-05-18T08:35:26.996558+00:00", 
+        "create_date": "2015-05-18T09:07:19.639223+00:00", 
         "name": "xios", 
         "display_name": "XIOS", 
         "type": "experiment", 
-        "uid": "14ae10d4-64b3-4d80-9100-55607ac680a1"
+        "uid": "2d18881b-d1ab-46d8-b59e-2c5be517b046"
     }
 }

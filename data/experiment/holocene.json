@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-05-18T09:40:50.517791+00:00", 
+        "name": "holocene", 
+        "display_name": "Holocene", 
+        "type": "experiment", 
+        "uid": "f6630bb1-e706-48c9-95fd-97f0c813eef0"
+    }
+}
