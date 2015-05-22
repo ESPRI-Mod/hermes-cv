@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-05-22T12:00:04.404722+00:00", 
+        "create_date": "2015-05-22T16:11:42.398489+00:00", 
         "name": "p529vui", 
         "display_name": "p529vui", 
         "type": "compute_node_login", 
-        "uid": "3fa70a6d-9e0d-428a-bb9e-0363e3142976"
+        "uid": "3fb786f2-9ec7-4df9-a3fe-4cc967db6860"
     }
 }
