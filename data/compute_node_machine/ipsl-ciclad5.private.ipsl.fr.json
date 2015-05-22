@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-05-21T16:02:52.689938+00:00", 
+        "create_date": "2015-05-21T16:06:18.431951+00:00", 
         "name": "ipsl-ciclad5.private.ipsl.fr", 
         "display_name": "ipsl-ciclad5.private.ipsl.fr", 
         "type": "compute_node_machine", 
-        "uid": "5c0d3520-576e-41d2-85b1-f4999a39af5c"
+        "uid": "d87e8298-7cf4-4e8b-b53b-9a7c42b78b23"
     }
 }
