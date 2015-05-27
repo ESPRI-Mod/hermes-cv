@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-05-26T14:35:19.821090+00:00", 
+        "create_date": "2015-05-26T14:35:29.613219+00:00", 
         "name": "nvuichard", 
         "display_name": "nvuichard", 
         "type": "compute_node_login", 
-        "uid": "66093d21-2c8f-4271-8caa-d2a996508026"
+        "uid": "20c434bd-b11b-4767-b44d-cbca2761c6c4"
     }
 }

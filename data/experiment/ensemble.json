@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-05-26T14:35:19.823397+00:00", 
+        "create_date": "2015-05-26T14:35:29.614542+00:00", 
         "name": "ensemble", 
         "display_name": "ensemble", 
         "type": "experiment", 
-        "uid": "3e85421d-abd5-48c6-be12-5fd39d75d1c8"
+        "uid": "6d5867f2-fdac-4678-9c1d-5155e723bda4"
     }
 }

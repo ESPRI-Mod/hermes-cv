@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-05-27T15:31:47.259872+00:00", 
+        "name": "borlaces", 
+        "display_name": "borlaces", 
+        "type": "compute_node_login", 
+        "uid": "6a75c401-d04a-4ab9-b5b3-20b909b82937"
+    }
+}
