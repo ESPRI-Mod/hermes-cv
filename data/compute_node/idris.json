@@ -1,6 +1,6 @@
 {
     "description": "Institut du Developpement et des Ressources en Informatique Scientifique", 
-    "thredds_server_url": "https://prodn.idris.fr/thredds/fileServer/IDRISPUBFS", 
+    "thredds_server_url": "https://prodn.idris.fr/thredds/fileServer/ipsl_public", 
     "meta": {
         "associations": [], 
         "create_date": "2014-12-10T14:16:58.857431+00:00", 
