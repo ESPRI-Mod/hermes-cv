@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-05-29T15:13:42.851569+00:00", 
+        "create_date": "2015-05-29T15:23:49.329271+00:00", 
         "name": "cmip6", 
         "display_name": "cmip6", 
         "type": "experiment", 
-        "uid": "44ddb728-aa19-46a6-abad-5be58869c21a"
+        "uid": "6f401a19-9472-4ece-862a-3feb06cd98e7"
     }
 }
