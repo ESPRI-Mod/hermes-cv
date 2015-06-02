@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-06-02T14:52:08.640925+00:00", 
+        "name": "lebasn", 
+        "display_name": "lebasn", 
+        "type": "compute_node_login", 
+        "uid": "57741ef2-f020-41fe-8a4a-30f41238b246"
+    }
+}
