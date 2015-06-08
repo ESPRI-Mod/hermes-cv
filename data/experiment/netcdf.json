@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-06-08T19:57:41.376438+00:00", 
+        "name": "netcdf", 
+        "display_name": "netcdf", 
+        "type": "experiment", 
+        "uid": "3656af63-a635-49a4-bd2d-e5473dde7a13"
+    }
+}
