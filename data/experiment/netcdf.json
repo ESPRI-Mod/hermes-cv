@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-06-08T19:57:41.376438+00:00", 
+        "create_date": "2015-06-08T20:11:36.494224+00:00", 
         "name": "netcdf", 
         "display_name": "netcdf", 
         "type": "experiment", 
-        "uid": "3656af63-a635-49a4-bd2d-e5473dde7a13"
+        "uid": "9e3cd55d-ed74-4f99-b0ad-9661cfd339a2"
     }
 }
