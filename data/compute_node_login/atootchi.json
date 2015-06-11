@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-06-11T14:49:08.378858+00:00", 
+        "create_date": "2015-06-11T14:49:09.104461+00:00", 
         "name": "atootchi", 
         "display_name": "atootchi", 
         "type": "compute_node_login", 
-        "uid": "754bcd04-5955-45c3-b3e9-f945cc998ff0"
+        "uid": "10ae000f-360e-4451-b410-8fec30688d2c"
     }
 }
