@@ -1,0 +1,12 @@
+{
+    "description": "PushStack - a command has been placed upon the active command's stack", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-06-10T10:02:51.683291+00:00",
+        "domain": "climate", 
+        "name": "4000", 
+        "type": "message_type", 
+        "uid": "3f3df193-ff87-4e92-9dad-18a6e74836e2"
+    }, 
+    "name": "4000"
+}

@@ -1,5 +1,5 @@
 {
-    "description": "Notification that cv terms need to be pushed to remote GitHub repo", 
+    "description": "A cv terms remote GitHub push notification", 
     "meta": {
         "associations": [], 
         "create_date": "2015-03-25T12:16:58.912601+00:00", 

@@ -1,5 +1,5 @@
 {
-    "description": "FATAL", 
+    "description": "FATAL - simulation has been stopped due to an error", 
     "meta": {
         "associations": [], 
         "create_date": "2014-12-10T14:16:58.915810+00:00", 

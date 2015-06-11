@@ -1,5 +1,5 @@
 {
-    "description": "Le job d'une simulation d\u00c2\u008eemarre (Period=1 and not FirstInitialize)", 
+    "description": "Computing job starts", 
     "meta": {
         "associations": [], 
         "create_date": "2014-12-10T14:16:58.913573+00:00", 

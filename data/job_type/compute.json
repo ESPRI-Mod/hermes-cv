@@ -1,0 +1,11 @@
+{
+    "description": "Simulation computing job", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-06-10T10:02:51.683291+00:00",
+        "domain": "climate", 
+        "name": "computing", 
+        "type": "job_type", 
+        "uid": "ae44f2d5-7d59-415d-af53-30cbdcb5f37a"
+    }
+}

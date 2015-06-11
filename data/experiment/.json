@@ -8,6 +8,6 @@
         "type": "experiment", 
         "uid": "9fd1226a-1785-4719-9b39-081e90fecc37"
     }, 
-    "description": "", 
-    "name": ""
+    "description": "Default experiment name", 
+    "name": "UNSPECIFIED"
 }

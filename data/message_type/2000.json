@@ -1,5 +1,5 @@
 {
-    "description": "PushStack", 
+    "description": "Post-processing job starts", 
     "meta": {
         "associations": [], 
         "create_date": "2014-12-10T14:16:58.914566+00:00", 

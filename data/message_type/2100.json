@@ -1,0 +1,12 @@
+{
+    "description": "Post-processing job ends", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-06-10T10:02:51.683291+00:00",
+        "domain": "climate", 
+        "name": "2100", 
+        "type": "message_type", 
+        "uid": "17cd572b-64dd-4341-bf03-b28562bf7001"
+    }, 
+    "name": "2100"
+}

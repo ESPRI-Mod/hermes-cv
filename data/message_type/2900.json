@@ -1,0 +1,12 @@
+{
+    "description": "Post-processing job fails", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-06-10T10:02:51.683291+00:00",
+        "domain": "climate", 
+        "name": "2900", 
+        "type": "message_type", 
+        "uid": "c923bc4f-8603-4966-ad7c-d35109ffb624"
+    }, 
+    "name": "2900"
+}
