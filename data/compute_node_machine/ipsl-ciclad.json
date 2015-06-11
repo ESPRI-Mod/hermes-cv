@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "associations": [
+            "compute_node.ipsl"
+        ], 
+        "create_date": "2015-06-09T14:16:58.868851+00:00", 
+        "domain": "climate", 
+        "name": "ipsl-ciclad", 
+        "type": "compute_node_machine", 
+        "uid": "ef922097-1fea-4dd6-a4bd-d4eac3121396"
+    }, 
+    "name": "IPSL-CICLAD", 
+    "synonyms": [
+        "CICLAD",
+        "ipsl-ciclad1.private.ipsl.fr",
+        "ipsl-ciclad2.private.ipsl.fr",
+        "ipsl-ciclad3.private.ipsl.fr",
+        "ipsl-ciclad4.private.ipsl.fr",
+        "ipsl-ciclad5.private.ipsl.fr",
+        "ipsl-ciclad6.private.ipsl.fr",
+        "ipsl-ciclad7.private.ipsl.fr",
+        "ipsl-ciclad8.private.ipsl.fr"
+    ]
+}
