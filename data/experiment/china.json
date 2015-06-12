@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-06-12T07:12:55.003727+00:00", 
+        "name": "china", 
+        "display_name": "china", 
+        "type": "experiment", 
+        "uid": "8d6ca449-1057-48e3-8803-4fe00b1f1f3f"
+    }
+}
