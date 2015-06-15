@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-06-15T11:10:34.898062+00:00", 
+        "create_date": "2015-06-15T11:44:08.807777+00:00", 
         "name": "orca2_lim3_pisces", 
         "display_name": "orca2_lim3_pisces", 
         "type": "model", 
-        "uid": "7d3027d5-cc92-42f8-bcfe-3bbcaa914dea"
+        "uid": "be14debc-4fa1-400e-b69c-90fc354a2d15"
     }
 }
