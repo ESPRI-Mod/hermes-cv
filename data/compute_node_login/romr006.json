@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-06-15T14:07:25.097534+00:00", 
+        "create_date": "2015-06-15T14:26:50.645162+00:00", 
         "name": "romr006", 
         "display_name": "romr006", 
         "type": "compute_node_login", 
-        "uid": "f67c37c4-a136-43bd-a564-ba03b1de40ac"
+        "uid": "f81c786a-19d2-4dd9-86ea-7b55cbf8b067"
     }
 }
