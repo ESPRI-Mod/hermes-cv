@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-06-19T08:38:42.530806+00:00", 
+        "name": "tigcm", 
+        "display_name": "tIGCM", 
+        "type": "experiment", 
+        "uid": "c39e49e6-4d93-4c6c-8cb5-cf983902366e"
+    }
+}
