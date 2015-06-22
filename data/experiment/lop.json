@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-06-22T10:02:28.435642+00:00", 
+        "name": "lop", 
+        "display_name": "LOP", 
+        "type": "experiment", 
+        "uid": "74ce67b5-aad0-45e2-a326-01a99041f923"
+    }
+}

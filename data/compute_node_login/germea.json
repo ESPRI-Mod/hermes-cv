@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-06-22T10:02:28.433935+00:00", 
+        "name": "germea", 
+        "display_name": "germea", 
+        "type": "compute_node_login", 
+        "uid": "35a75832-a250-4d36-b031-a96fbccf2e99"
+    }
+}
