@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-06-26T15:13:23.876855+00:00", 
+        "name": "ttpicontrol", 
+        "display_name": "ttpiControl", 
+        "type": "experiment", 
+        "uid": "26d506b2-fc6f-41fa-b908-c4b998613851"
+    }
+}
