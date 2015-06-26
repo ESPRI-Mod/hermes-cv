@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-06-26T15:20:57.759742+00:00", 
+        "create_date": "2015-06-26T15:29:17.433656+00:00", 
         "name": "p86mign", 
         "display_name": "p86mign", 
         "type": "compute_node_login", 
-        "uid": "5101056d-e82d-4a62-83f4-5cf6f25f23e7"
+        "uid": "6c198abd-fdbb-4d5a-b332-7eae46a504a5"
     }
 }
