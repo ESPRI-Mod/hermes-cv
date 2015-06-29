@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-06-29T16:59:20.131847+00:00", 
+        "name": "testamip", 
+        "display_name": "testamip", 
+        "type": "experiment", 
+        "uid": "7e1bbc0a-6a2a-446f-8ff3-6d44688bce4f"
+    }
+}
