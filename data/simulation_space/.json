@@ -8,6 +8,6 @@
         "type": "simulation_space", 
         "uid": "a96de2bd-ac48-452d-82a9-24a87a571948"
     }, 
-    "description": "", 
-    "name": ""
+    "description": "Default simulation space name", 
+    "name": "UNSPECIFIED"
 }
