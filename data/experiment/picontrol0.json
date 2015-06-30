@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-06-29T16:54:12.742740+00:00", 
+        "create_date": "2015-06-29T17:04:47.820842+00:00", 
         "name": "picontrol0", 
         "display_name": "piControl0", 
         "type": "experiment", 
-        "uid": "00eae664-6e96-408a-98bd-e4761a19833d"
+        "uid": "f1989600-8bcc-4084-8c65-d2ab6dec8360"
     }
 }
