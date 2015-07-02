@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-07-02T11:44:37.226777+00:00", 
+        "name": "foujols", 
+        "display_name": "foujols", 
+        "type": "compute_node_login", 
+        "uid": "a964386c-37ad-49b6-9c10-61ba9f843170"
+    }
+}
