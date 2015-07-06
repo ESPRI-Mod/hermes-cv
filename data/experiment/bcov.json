@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-07-06T12:20:28.539350+00:00", 
+        "name": "bcov", 
+        "display_name": "BCOV", 
+        "type": "experiment", 
+        "uid": "62c8ae69-16a4-4a39-9470-8b68f098d970"
+    }
+}
