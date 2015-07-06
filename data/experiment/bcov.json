@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-07-06T12:20:28.539350+00:00", 
+        "create_date": "2015-07-06T13:34:33.520852+00:00", 
         "name": "bcov", 
         "display_name": "BCOV", 
         "type": "experiment", 
-        "uid": "62c8ae69-16a4-4a39-9470-8b68f098d970"
+        "uid": "e4e59518-0add-4feb-9d5f-ea179d4d3049"
     }
 }
