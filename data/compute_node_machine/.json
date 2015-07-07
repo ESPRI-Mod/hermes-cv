@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-06-13T22:39:08.486354+00:00", 
+        "name": "", 
+        "display_name": "UNSPECIFIED",
+        "type": "compute_node_machine", 
+        "uid": "cd6b5b67-7a15-46a7-9a41-1a02efa80a25"
+    },
+    "description": "Default compute node machine name", 
+    "name": "UNSPECIFIED"
+}
