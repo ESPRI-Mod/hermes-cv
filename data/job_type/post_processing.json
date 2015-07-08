@@ -1,0 +1,11 @@
+{
+    "description": "Simulation post processing job", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-06-10T10:02:51.683291+00:00",
+        "domain": "climate", 
+        "name": "post-processing", 
+        "type": "job_type", 
+        "uid": "a46603ee-8c9b-4366-8f5d-464bf814b402"
+    }
+}

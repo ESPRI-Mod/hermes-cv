@@ -1,12 +1,12 @@
 {
-    "description": "Post-processing from checker job starts", 
+    "description": "Post-processing from checker job ends", 
     "meta": {
         "associations": [], 
         "create_date": "2014-12-10T14:16:58.914851+00:00", 
         "domain": "climate", 
-        "name": "3000", 
+        "name": "3100", 
         "type": "message_type", 
-        "uid": "5b32e245-f9b1-4fee-9a20-6a589606b63b"
+        "uid": "0cb8f583-5f83-406d-8a22-c30bf851388e"
     }, 
-    "name": "3000"
+    "name": "3100"
 }

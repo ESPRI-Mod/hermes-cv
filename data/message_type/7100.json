@@ -1,0 +1,12 @@
+{
+    "description": "Simulation Metrics", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-06-10T10:02:51.683291+00:00",
+        "domain": "climate", 
+        "name": "7100", 
+        "type": "message_type", 
+        "uid": "be59ade0-563d-4ca7-acba-a1feb72ebc3d"
+    }, 
+    "name": "7100"
+}
