@@ -3,10 +3,10 @@
         "associations": [], 
         "status": "new", 
         "domain": "climate", 
-        "create_date": "2015-07-06T15:08:42.414457+00:00", 
+        "create_date": "2015-07-07T14:29:10.281166+00:00", 
         "name": "beghoura", 
         "display_name": "beghoura", 
         "type": "compute_node_login", 
-        "uid": "5faef19e-1585-4dde-89ea-f452151eddd8"
+        "uid": "a18a66c5-01f4-4db5-beb2-bf4db77ddd74"
     }
 }
