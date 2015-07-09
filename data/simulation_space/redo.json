@@ -5,8 +5,9 @@
         "domain": "climate", 
         "create_date": "2015-06-04T12:59:12.324143+00:00", 
         "name": "redo", 
-        "display_name": "redo", 
+        "display_name": "REDO", 
         "type": "simulation_space", 
         "uid": "f233527a-2b3d-4536-8ba4-2b799412161d"
-    }
+    },
+    "name": "REDO"
 }
