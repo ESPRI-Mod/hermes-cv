@@ -11,6 +11,7 @@
     }, 
     "name": "IPSL-LAPTOP", 
     "synonyms": [
+        "LAPTOP",
         "default-dhcp-236.ipsl.jussieu.fr",
         "default-dhcp-238.ipsl.jussieu.fr"
     ]
