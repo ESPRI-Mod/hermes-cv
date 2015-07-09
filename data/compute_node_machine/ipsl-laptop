@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "associations": [
+            "compute_node.ipsl"
+        ], 
+        "create_date": "2015-06-09T14:16:58.868851+00:00", 
+        "domain": "climate", 
+        "name": "ipsl-laptop", 
+        "type": "compute_node_machine", 
+        "uid": "10b7be4c-dedf-4d0b-8907-8845baacc90f"
+    }, 
+    "name": "IPSL-LAPTOP", 
+    "synonyms": [
+        "default-dhcp-236.ipsl.jussieu.fr",
+        "default-dhcp-238.ipsl.jussieu.fr"
+    ]
+}
