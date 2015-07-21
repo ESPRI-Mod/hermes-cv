@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-07-21T13:19:38.838327+00:00", 
+        "name": "ssos793", 
+        "display_name": "ssos793", 
+        "type": "compute_node_login", 
+        "uid": "961ed54c-5064-4350-8029-be2f3a3738fa"
+    }
+}
