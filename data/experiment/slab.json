@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-07-30T15:42:03.496358+00:00", 
+        "name": "slab", 
+        "display_name": "slab", 
+        "type": "experiment", 
+        "uid": "9a468112-eaf3-4c57-ac52-45ec7abf972d"
+    }
+}
