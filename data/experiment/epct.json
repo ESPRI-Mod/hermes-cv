@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-07-31T08:14:58.118850+00:00", 
+        "name": "epct", 
+        "display_name": "EPCT", 
+        "type": "experiment", 
+        "uid": "70bb4d88-f706-4750-a141-c003c51d76e8"
+    }
+}
