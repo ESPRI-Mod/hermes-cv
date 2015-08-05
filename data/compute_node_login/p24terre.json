@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-08-05T14:19:37.336616+00:00", 
+        "name": "p24terre", 
+        "display_name": "p24terre", 
+        "type": "compute_node_login", 
+        "uid": "f5da5f28-5b15-4406-8413-cb968577263e"
+    }
+}

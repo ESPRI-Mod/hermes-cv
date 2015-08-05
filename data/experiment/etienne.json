@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-08-05T14:19:37.338052+00:00", 
+        "name": "etienne", 
+        "display_name": "Etienne", 
+        "type": "experiment", 
+        "uid": "30509071-5a6c-4159-b195-3b8a39d005d3"
+    }
+}
