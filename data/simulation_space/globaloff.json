@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-08-06T18:43:53.099728+00:00", 
+        "name": "globaloff", 
+        "display_name": "globaloff", 
+        "type": "simulation_space", 
+        "uid": "c94f7ca5-3801-4fd1-9ba7-1a3768f29a88"
+    }
+}

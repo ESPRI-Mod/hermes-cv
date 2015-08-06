@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-08-06T18:43:53.100710+00:00", 
+        "name": "p24lath", 
+        "display_name": "p24lath", 
+        "type": "compute_node_login", 
+        "uid": "c7f7e16b-9075-46d9-8391-7db628b1ef55"
+    }
+}
