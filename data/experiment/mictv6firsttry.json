@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-08-20T12:59:57.508898+00:00", 
+        "name": "mictv6firsttry", 
+        "display_name": "MICTv6firstTry", 
+        "type": "experiment", 
+        "uid": "9a964f7f-7286-4c31-b946-209fdc51a5aa"
+    }
+}
