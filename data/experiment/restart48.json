@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-08-21T15:10:02.623984+00:00", 
+        "name": "restart48", 
+        "display_name": "restart48", 
+        "type": "experiment", 
+        "uid": "264cce01-7152-44af-80a7-840edd2c3f32"
+    }
+}
