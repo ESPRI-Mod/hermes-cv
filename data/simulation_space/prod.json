@@ -8,5 +8,8 @@
         "type": "simulation_space", 
         "uid": "133f4e82-5703-4103-a52b-c0b2c87aa255"
     }, 
-    "name": "PROD"
+    "name": "PROD",
+    "synonyms": [
+        "prd", "PRD"
+    ]
 }
