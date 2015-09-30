@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-09-30T14:16:58.929963+00:00", 
+        "domain": "climate", 
+        "name": "12M", 
+        "sort_key": "GG",
+        "type": "simulation_timeslice", 
+        "uid": "1a33c53d-8353-450c-8ff0-89dc7f250237"
+    },
+    "name": "< 1 year"
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-09-30T14:16:58.929963+00:00", 
+        "domain": "climate", 
+        "name": "3M", 
+        "sort_key": "EE",
+        "type": "simulation_timeslice", 
+        "uid": "105b7342-509d-4573-9c37-7b56d5abd23f"
+    },
+    "name": "< 3 months"
+}

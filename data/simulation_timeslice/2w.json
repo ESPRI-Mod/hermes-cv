@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-09-30T14:16:58.929963+00:00", 
+        "domain": "climate", 
+        "name": "2W", 
+        "sort_key": "BB",
+        "type": "simulation_timeslice", 
+        "uid": "8d6e0d2a-6afa-4245-9794-0708363520c8"
+    },
+    "name": "< 2 weeks"
+}
