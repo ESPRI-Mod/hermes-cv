@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-09-15T12:01:56.365395+00:00", 
+        "name": "aer", 
+        "display_name": "AER", 
+        "type": "experiment", 
+        "uid": "8d2dcc19-d2a4-46b6-ae09-4569790f1ebd"
+    }
+}

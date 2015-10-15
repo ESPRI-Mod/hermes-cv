@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-09-10T14:39:45.187381+00:00", 
+        "name": "ges", 
+        "display_name": "GES", 
+        "type": "experiment", 
+        "uid": "7390a59b-667c-4a02-8b14-81d3db3d9c4c"
+    }
+}

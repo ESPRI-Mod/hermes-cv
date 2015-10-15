@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-09-06T02:57:25.851297+00:00", 
+        "name": "impact2c", 
+        "display_name": "impact2c", 
+        "type": "experiment", 
+        "uid": "9ba603b1-7a94-474c-b2a5-254a6771838e"
+    }
+}

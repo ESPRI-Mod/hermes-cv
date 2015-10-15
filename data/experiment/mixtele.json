@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-09-22T18:21:15.161259+00:00", 
+        "name": "mixtele", 
+        "display_name": "MixTele", 
+        "type": "experiment", 
+        "uid": "29398e99-3356-42af-b844-aae61e47fef0"
+    }
+}

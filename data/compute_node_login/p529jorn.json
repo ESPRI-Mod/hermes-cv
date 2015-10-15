@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-09-21T14:13:34.123495+00:00", 
+        "name": "p529jorn", 
+        "display_name": "p529jorn", 
+        "type": "compute_node_login", 
+        "uid": "a650d7a0-9d17-4c03-8734-c885f46d0905"
+    }
+}

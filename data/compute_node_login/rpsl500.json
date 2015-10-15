@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-10-14T07:50:21.846391+00:00", 
+        "name": "rpsl500", 
+        "display_name": "rpsl500", 
+        "type": "compute_node_login", 
+        "uid": "88d55688-0f36-44a4-b907-a9d91e3d4907"
+    }
+}

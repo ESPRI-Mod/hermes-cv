@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-09-24T13:04:03.799234+00:00", 
+        "name": "p86guil", 
+        "display_name": "p86guil", 
+        "type": "compute_node_login", 
+        "uid": "6dfab8f6-08e1-4825-9e77-117cbce23aea"
+    }
+}

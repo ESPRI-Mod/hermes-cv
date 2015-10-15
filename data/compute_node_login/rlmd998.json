@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-09-30T14:22:06.997296+00:00", 
+        "name": "rlmd998", 
+        "display_name": "rlmd998", 
+        "type": "compute_node_login", 
+        "uid": "3b5af7d2-0732-41ed-9df6-03e41800a992"
+    }
+}
