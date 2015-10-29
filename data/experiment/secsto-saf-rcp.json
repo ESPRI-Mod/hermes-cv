@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-10-29T09:34:40.944210+00:00", 
+        "name": "secsto-saf-rcp", 
+        "display_name": "secsto-SAF-RCP", 
+        "type": "experiment", 
+        "uid": "cb0c46c8-ce87-41e4-b3c3-c56493909e78"
+    }
+}

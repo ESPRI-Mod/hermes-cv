@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-10-29T09:34:40.942676+00:00", 
+        "name": "stradas", 
+        "display_name": "stradas", 
+        "type": "compute_node_login", 
+        "uid": "37020eb0-2eff-4eac-887a-7c16c770a249"
+    }
+}
