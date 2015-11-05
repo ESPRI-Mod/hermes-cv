@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-11-05T01:37:39.994534+00:00", 
+        "name": "rtij005", 
+        "display_name": "rtij005", 
+        "type": "compute_node_login", 
+        "uid": "9d53edea-89ff-4afd-a70f-e3569a3a5f29"
+    }
+}
