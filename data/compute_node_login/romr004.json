@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-11-05T04:20:13.219275+00:00", 
+        "name": "romr004", 
+        "display_name": "romr004", 
+        "type": "compute_node_login", 
+        "uid": "59650639-9af2-4852-abdb-f8518d227bb3"
+    }
+}
