@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-11-06T10:04:11.525258+00:00", 
+        "name": "p24bous", 
+        "display_name": "p24bous", 
+        "type": "compute_node_login", 
+        "uid": "6faf166a-2964-4b50-b119-d9c571dfc156"
+    }
+}
