@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-11-07T12:13:50.198635+00:00", 
+        "name": "windstreexp", 
+        "display_name": "WindStreEXP", 
+        "type": "experiment", 
+        "uid": "08bd72c2-65e5-40bd-b69e-7deed9a94458"
+    }
+}
