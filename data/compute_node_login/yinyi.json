@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-11-10T17:36:58.760835+00:00", 
+        "name": "yinyi", 
+        "display_name": "yinyi", 
+        "type": "compute_node_login", 
+        "uid": "69af1745-df6e-48c5-92e1-7c122f456673"
+    }
+}
