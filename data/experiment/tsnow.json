@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-11-12T10:53:17.140862+00:00", 
+        "name": "tsnow", 
+        "display_name": "tsnow", 
+        "type": "experiment", 
+        "uid": "6c4f6664-b48c-47b7-9ea4-36dbc78b47bb"
+    }
+}
