@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-11-15T22:21:20.725233+00:00", 
+        "name": "rev3006watch", 
+        "display_name": "rev3006watch", 
+        "type": "experiment", 
+        "uid": "42af6a42-7445-457b-be5f-decb82254f13"
+    }
+}
