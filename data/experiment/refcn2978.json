@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-11-20T16:00:31.031896+00:00", 
+        "name": "refcn2978", 
+        "display_name": "refCN2978", 
+        "type": "experiment", 
+        "uid": "50f6d087-451e-4163-b571-ef461db5c5f7"
+    }
+}
