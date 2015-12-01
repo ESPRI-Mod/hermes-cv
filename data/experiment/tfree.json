@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-12-01T12:08:32.580240+00:00", 
+        "name": "tfree", 
+        "display_name": "tfree", 
+        "type": "experiment", 
+        "uid": "6f549540-8413-44db-99cd-6bbdc5ac3771"
+    }
+}
