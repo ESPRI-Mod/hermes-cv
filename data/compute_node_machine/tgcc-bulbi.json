@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-12-03T10:33:48.283119+00:00", 
+        "name": "tgcc-bulbi", 
+        "display_name": "tgcc-bulbi", 
+        "type": "compute_node_machine", 
+        "uid": "d3793d81-b682-40b4-8879-0284eabb0eb4"
+    }
+}
