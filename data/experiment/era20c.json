@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2015-12-06T16:41:16.772580+00:00", 
+        "name": "era20c", 
+        "display_name": "ERA20C", 
+        "type": "experiment", 
+        "uid": "de657035-f897-406f-930c-56f67e43d906"
+    }
+}
