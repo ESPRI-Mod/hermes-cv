@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-01-06T08:43:19.667229+00:00", 
+        "name": "create-o2a-ipslcm6v1", 
+        "display_name": "CREATE-o2a-IPSLCM6v1", 
+        "type": "experiment", 
+        "uid": "e0a4a4b6-bcc0-46c9-90df-24d099730095"
+    }
+}
