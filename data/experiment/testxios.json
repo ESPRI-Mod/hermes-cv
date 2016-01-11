@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-01-11T20:59:29.109127+00:00", 
+        "name": "testxios", 
+        "display_name": "testxios", 
+        "type": "experiment", 
+        "uid": "c5a0f37d-2bb0-4607-96e3-9bdd444d4521"
+    }
+}
