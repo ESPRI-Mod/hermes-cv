@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-01-14T13:47:03.211894+00:00", 
+        "name": "p529bari", 
+        "display_name": "p529bari", 
+        "type": "compute_node_login", 
+        "uid": "a8700d86-ff55-4863-ba7f-447910fe766f"
+    }
+}
