@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-01-15T08:47:21.964098+00:00", 
+        "name": "orca2ia", 
+        "display_name": "ORCA2ia", 
+        "type": "experiment", 
+        "uid": "92791182-0e62-41f7-8581-379a3fa35353"
+    }
+}
