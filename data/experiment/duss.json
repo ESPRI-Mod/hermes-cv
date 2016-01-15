@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-01-15T14:38:55.732776+00:00", 
+        "name": "duss", 
+        "display_name": "DUSS", 
+        "type": "experiment", 
+        "uid": "9661efea-0bf5-4d3d-ae3e-e711065889c3"
+    }
+}
