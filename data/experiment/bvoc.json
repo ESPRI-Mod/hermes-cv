@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-01-18T15:48:21.505986+00:00", 
+        "name": "bvoc", 
+        "display_name": "BVOC", 
+        "type": "experiment", 
+        "uid": "222f73b5-0dd5-4d19-8ff9-e747d386a6d0"
+    }
+}
