@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-01-28T17:03:54.531653+00:00", 
+        "name": "default-port-243.ipsl.upmc.fr", 
+        "display_name": "default-port-243.ipsl.upmc.fr", 
+        "type": "compute_node_machine", 
+        "uid": "58718d67-ce4c-42eb-9420-c7b47aa7f3fb"
+    }
+}
