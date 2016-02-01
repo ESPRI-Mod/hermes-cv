@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-02-01T17:44:21.630831+00:00", 
+        "name": "cpicontrol", 
+        "display_name": "CpiControl", 
+        "type": "experiment", 
+        "uid": "b6909b31-e612-4e4b-9d81-ac1606c63da9"
+    }
+}

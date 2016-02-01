@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-02-01T17:44:21.633248+00:00", 
+        "name": "ipslcm5a_c", 
+        "display_name": "ipslcm5a_c", 
+        "type": "model", 
+        "uid": "51fcbe45-a802-4504-9184-1ae7792eebdd"
+    }
+}
