@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-02-02T12:03:12.555979+00:00", 
+        "name": "impcoupl", 
+        "display_name": "impcoupl", 
+        "type": "experiment", 
+        "uid": "9d544e8a-2034-418b-858e-334d33a54f16"
+    }
+}
