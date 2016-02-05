@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-02-05T19:55:00.504432+00:00", 
+        "name": "tcn", 
+        "display_name": "tcn", 
+        "type": "experiment", 
+        "uid": "ba1b3812-62c1-4f62-bed0-9a6ab25f732b"
+    }
+}
