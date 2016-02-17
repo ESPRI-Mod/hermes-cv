@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-02-17T17:15:32.836974+00:00", 
+        "name": "p25sima", 
+        "display_name": "p25sima", 
+        "type": "compute_node_login", 
+        "uid": "b9e003ef-2e30-4a42-9221-31a3aaead51e"
+    }
+}
