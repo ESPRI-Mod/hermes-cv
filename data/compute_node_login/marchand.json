@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-02-16T14:09:28.466889+00:00", 
+        "name": "marchand", 
+        "display_name": "marchand", 
+        "type": "compute_node_login", 
+        "uid": "f2937591-63ad-44f9-9e03-5fcd7edcf268"
+    }
+}

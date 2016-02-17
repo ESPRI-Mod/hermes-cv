@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-02-17T09:43:34.293368+00:00", 
+        "name": "pbrunoff", 
+        "display_name": "pbRunoff", 
+        "type": "experiment", 
+        "uid": "4325e93e-8c9b-48da-9d36-60536efedd43"
+    }
+}
