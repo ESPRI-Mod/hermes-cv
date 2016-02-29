@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-02-29T15:11:11.740417+00:00", 
+        "name": "swingedi", 
+        "display_name": "swingedi", 
+        "type": "compute_node_login", 
+        "uid": "d686f1ea-f68a-4df9-a24e-fd728811a64c"
+    }
+}
