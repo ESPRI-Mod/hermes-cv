@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-03-04T13:03:32.745696+00:00", 
+        "name": "cadenm4c", 
+        "display_name": "cadenm4c", 
+        "type": "compute_node_login", 
+        "uid": "271f988d-b966-45a0-acb4-b15ee7e2e59b"
+    }
+}

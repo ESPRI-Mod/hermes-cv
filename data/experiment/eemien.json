@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-03-15T14:21:29.863119+00:00", 
+        "name": "eemien", 
+        "display_name": "eemien", 
+        "type": "experiment", 
+        "uid": "593d3bc9-01dd-42fb-b7d0-ef642b4447bf"
+    }
+}
