@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-03-16T16:18:29.607074+00:00", 
+        "name": "schneider", 
+        "display_name": "schneider", 
+        "type": "compute_node_login", 
+        "uid": "e11f688f-9568-44bd-88e5-635bfa9ad5f8"
+    }
+}

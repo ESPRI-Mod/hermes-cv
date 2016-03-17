@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-03-17T10:26:20.947828+00:00", 
+        "name": "cwrrrun", 
+        "display_name": "CWRRrun", 
+        "type": "experiment", 
+        "uid": "bfd089b7-b429-4a3d-9270-cc25252548d5"
+    }
+}
