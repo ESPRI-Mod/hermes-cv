@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-03-21T11:36:06.057119+00:00", 
+        "name": "tdriver", 
+        "display_name": "tdriver", 
+        "type": "experiment", 
+        "uid": "9ac19185-67bd-4d94-b409-6bb57c9af07d"
+    }
+}
