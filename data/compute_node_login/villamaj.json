@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-03-24T12:28:04.113085+00:00", 
+        "name": "villamaj", 
+        "display_name": "villamaj", 
+        "type": "compute_node_login", 
+        "uid": "492a322e-6c7a-4982-8aa8-bfc7b71d4b1f"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-03-22T16:11:49.829204+00:00", 
+        "name": "motalora", 
+        "display_name": "motalora", 
+        "type": "compute_node_login", 
+        "uid": "bf5bb3f5-dd27-4737-8fb1-e75ce4c74df2"
+    }
+}
