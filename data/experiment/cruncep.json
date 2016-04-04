@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-01T10:13:31.858270+00:00", 
+        "name": "cruncep", 
+        "display_name": "cruncep", 
+        "type": "experiment", 
+        "uid": "0a3f74cc-a88f-4766-8bff-ab431c6513f0"
+    }
+}
