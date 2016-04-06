@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-06T13:07:59.536127+00:00", 
+        "name": "choisnel", 
+        "display_name": "choisnel", 
+        "type": "experiment", 
+        "uid": "26e532dc-89a7-47c3-9020-140f8069977f"
+    }
+}
