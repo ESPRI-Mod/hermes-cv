@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-06T17:34:41.239147+00:00", 
+        "name": "wfdei", 
+        "display_name": "wfdei", 
+        "type": "simulation_space", 
+        "uid": "10a47b8f-398b-491b-8d48-55ff167c5b47"
+    }
+}

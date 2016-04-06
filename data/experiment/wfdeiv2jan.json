@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-06T17:34:41.246745+00:00", 
+        "name": "wfdeiv2jan", 
+        "display_name": "wfdeiv2jan", 
+        "type": "experiment", 
+        "uid": "6ae8b5c5-00e7-47dc-95c0-d7ab21218c00"
+    }
+}
