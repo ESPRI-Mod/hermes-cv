@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-06T14:23:23.649086+00:00", 
+        "name": "refcn3238palmi01", 
+        "display_name": "refCN3238Palmi01", 
+        "type": "experiment", 
+        "uid": "77042602-b54a-4099-b882-fd5f209794fd"
+    }
+}

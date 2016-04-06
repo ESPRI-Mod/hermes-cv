@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-06T14:23:23.640342+00:00", 
+        "name": "p24palm", 
+        "display_name": "p24palm", 
+        "type": "compute_node_login", 
+        "uid": "5fac1988-a5d4-40ae-8509-bafbdb20bb7b"
+    }
+}
