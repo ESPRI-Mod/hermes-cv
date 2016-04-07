@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T09:01:17.838475+00:00", 
+        "name": "ncc", 
+        "display_name": "ncc", 
+        "type": "simulation_space", 
+        "uid": "97150464-0e94-45bb-baa1-9be8633e3096"
+    }
+}
