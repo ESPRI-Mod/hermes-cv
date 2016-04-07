@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "associations": [
+            "compute_node.ipsl"
+        ], 
+        "create_date": "2016-04-07T14:16:58.868851+00:00", 
+        "domain": "climate", 
+        "name": "ipsl-climserv", 
+        "type": "compute_node_machine", 
+        "uid": "e1bc971a-350d-4486-a0a9-b153d4140c5b"
+    }, 
+    "name": "IPSL-CLIMSERV", 
+    "synonyms": [
+        "CLIMSERV",
+        "ipsl-merlin1-c.climserv",
+        "ipsl-merlin2-c.climserv",
+        "ipsl-merlin3-c.climserv",
+        "ipsl-merlin4-c.climserv",
+        "ipsl-merlin5-c.climserv",
+        "ipsl-merlin6-c.climserv",
+        "ipsl-merlin7-c.climserv",
+        "ipsl-merlin8-c.climserv",
+        "ipsl-merlin9-c.climserv",
+        "ipsl-merlin10-c.climserv",
+        "ipsl-merlin11-c.climserv",
+        "ipsl-merlin12-c.climserv",
+        "ipsl-climserv-merlin11-c.climserv",
+        "ipsl-climserv-merlin12-c.climserv",
+        "default-merlin1-c.climserv",
+        "default-merlin2-c.climserv",
+        "default-merlin3-c.climserv",
+        "default-merlin4-c.climserv",
+        "default-merlin5-c.climserv",
+        "default-merlin6-c.climserv",
+        "default-merlin7-c.climserv",
+        "default-merlin8-c.climserv",
+        "default-merlin9-c.climserv",
+        "default-merlin10-c.climserv",
+        "default-merlin11-c.climserv",
+        "default-merlin12-c.climserv"
+    ]
+}
