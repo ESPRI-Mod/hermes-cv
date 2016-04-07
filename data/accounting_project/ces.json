@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.093780+00:00", 
+        "name": "ces", 
+        "display_name": "ces", 
+        "type": "accounting_project", 
+        "uid": "f5914aad-2b5a-4765-8284-0cd3ad49b07a"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.091693+00:00", 
+        "name": "gencmip6", 
+        "display_name": "gencmip6", 
+        "type": "accounting_project", 
+        "uid": "3dff6462-6eb8-4c37-b531-2e8848e8a209"
+    }
+}

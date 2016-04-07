@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.093951+00:00", 
+        "name": "dzt", 
+        "display_name": "dzt", 
+        "type": "accounting_project", 
+        "uid": "641214ea-ac5e-4ddd-9ca1-60d2b3411f63"
+    }
+}

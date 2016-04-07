@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.089477+00:00", 
+        "name": "omr", 
+        "display_name": "omr", 
+        "type": "accounting_project", 
+        "uid": "e2cfbe36-7ade-4520-9ee5-e19610a10a62"
+    }
+}

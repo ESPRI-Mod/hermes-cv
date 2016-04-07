@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.089953+00:00", 
+        "name": "tij", 
+        "display_name": "tij", 
+        "type": "accounting_project", 
+        "uid": "90b037d3-f137-488a-a31e-b8b602fa9a67"
+    }
+}

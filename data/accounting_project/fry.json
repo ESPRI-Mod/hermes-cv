@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.095117+00:00", 
+        "name": "fry", 
+        "display_name": "fry", 
+        "type": "accounting_project", 
+        "uid": "86363b2d-294f-4423-a362-a4e504ebaed4"
+    }
+}

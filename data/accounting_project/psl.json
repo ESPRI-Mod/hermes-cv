@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.090430+00:00", 
+        "name": "psl", 
+        "display_name": "psl", 
+        "type": "accounting_project", 
+        "uid": "0cfdb9fd-5506-415f-93e1-a4680f02c274"
+    }
+}

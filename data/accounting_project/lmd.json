@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.091226+00:00", 
+        "name": "lmd", 
+        "display_name": "lmd", 
+        "type": "accounting_project", 
+        "uid": "36805d02-3c84-4490-88a2-753be6325259"
+    }
+}

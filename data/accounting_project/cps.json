@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.095375+00:00", 
+        "name": "cps", 
+        "display_name": "cps", 
+        "type": "accounting_project", 
+        "uid": "8b31fdb7-6f75-4d3e-b5db-455bc44b69dc"
+    }
+}

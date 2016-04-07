@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.090884+00:00", 
+        "name": "gzi", 
+        "display_name": "gzi", 
+        "type": "accounting_project", 
+        "uid": "3eae7bbe-1fb4-4105-9576-a5e391f43194"
+    }
+}

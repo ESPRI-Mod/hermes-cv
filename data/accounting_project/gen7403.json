@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-07T08:55:59.092288+00:00", 
+        "name": "gen7403", 
+        "display_name": "gen7403", 
+        "type": "accounting_project", 
+        "uid": "8f846dc4-cb1e-4803-8440-57a243c79d17"
+    }
+}
