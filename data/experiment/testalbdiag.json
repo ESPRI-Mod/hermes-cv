@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-08T14:11:05.939521+00:00", 
+        "name": "testalbdiag", 
+        "display_name": "testalbdiag", 
+        "type": "experiment", 
+        "uid": "6b28eb63-f2c0-4781-a2dc-73bcc675d6f4"
+    }
+}
