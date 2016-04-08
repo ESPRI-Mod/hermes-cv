@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-08T14:48:02.436645+00:00", 
+        "name": "mict", 
+        "display_name": "MICT", 
+        "type": "experiment", 
+        "uid": "67be9b33-d857-4826-992c-65ef9ffa7ade"
+    }
+}
