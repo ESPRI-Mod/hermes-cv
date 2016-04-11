@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-11T14:15:18.926995+00:00", 
+        "name": "hurm", 
+        "display_name": "hurm", 
+        "type": "compute_node_login", 
+        "uid": "42a93d72-c140-43f0-9c3a-81490c61a0ff"
+    }
+}
