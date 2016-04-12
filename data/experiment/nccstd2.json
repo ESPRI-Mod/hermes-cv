@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-12T08:23:53.528580+00:00", 
+        "name": "nccstd2", 
+        "display_name": "nccstd2", 
+        "type": "experiment", 
+        "uid": "d3e66d13-6f51-48fd-8119-912291dae17c"
+    }
+}
