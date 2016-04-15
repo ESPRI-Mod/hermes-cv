@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-15T08:33:36.195588+00:00", 
+        "name": "default-merlin15-c.climserv", 
+        "display_name": "default-merlin15-c.climserv", 
+        "type": "compute_node_machine", 
+        "uid": "81e6e11f-0612-470c-a7f4-b50d54747d4b"
+    }
+}
