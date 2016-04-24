@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-04-21T13:50:31.047308+00:00", 
+        "name": "asorenss", 
+        "display_name": "asorenss", 
+        "type": "compute_node_login", 
+        "uid": "77a0b4ec-8571-4f90-81b6-ad1777b7aae0"
+    }
+}
