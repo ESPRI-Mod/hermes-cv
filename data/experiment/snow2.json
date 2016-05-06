@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-05-06T13:31:25.462978+00:00", 
+        "name": "snow2", 
+        "display_name": "SNOW2", 
+        "type": "experiment", 
+        "uid": "15af0419-42e0-4b4a-b427-24c3c1697bb6"
+    }
+}
