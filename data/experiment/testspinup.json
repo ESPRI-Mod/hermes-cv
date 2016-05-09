@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-05-09T10:59:37.939224+00:00", 
+        "name": "testspinup", 
+        "display_name": "testspinup", 
+        "type": "experiment", 
+        "uid": "f8f1ee74-4d39-43fa-bfdd-5d70054d0cb9"
+    }
+}
