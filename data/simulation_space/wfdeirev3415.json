@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-05-10T12:43:42.063015+00:00", 
+        "name": "wfdeirev3415", 
+        "display_name": "wfdeirev3415", 
+        "type": "simulation_space", 
+        "uid": "b2bae2ac-6ef0-4b9c-83c3-6a2d3d5db61c"
+    }
+}
