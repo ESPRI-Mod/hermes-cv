@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-05-11T13:49:40.062328+00:00", 
+        "name": "palmira", 
+        "display_name": "PALMIRA", 
+        "type": "experiment", 
+        "uid": "dc836cce-26fc-4005-a798-414457a4a375"
+    }
+}
