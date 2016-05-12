@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-05-12T14:11:46.704389+00:00", 
+        "name": "rev_3415_testhydro", 
+        "display_name": "rev_3415_testhydro", 
+        "type": "simulation_space", 
+        "uid": "1c93f2c5-a296-4867-8ec3-0e5109095c65"
+    }
+}
