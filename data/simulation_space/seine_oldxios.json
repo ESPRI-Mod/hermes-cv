@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-05-17T15:47:11.230424+00:00", 
+        "name": "seine_oldxios", 
+        "display_name": "seine_oldxios", 
+        "type": "simulation_space", 
+        "uid": "d78374b2-0dc5-4340-bd02-d2073135bab6"
+    }
+}
