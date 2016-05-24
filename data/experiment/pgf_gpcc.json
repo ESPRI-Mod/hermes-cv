@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-05-24T13:36:31.624790+00:00", 
+        "name": "pgf_gpcc", 
+        "display_name": "pgf_gpcc", 
+        "type": "experiment", 
+        "uid": "ed91549a-5aa4-41f8-ac52-ed934cee5768"
+    }
+}
