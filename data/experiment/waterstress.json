@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-05-24T11:18:43.240040+00:00", 
+        "name": "waterstress", 
+        "display_name": "waterstress", 
+        "type": "experiment", 
+        "uid": "111f1122-226c-4e2d-8205-8cbdd8fe9b78"
+    }
+}
