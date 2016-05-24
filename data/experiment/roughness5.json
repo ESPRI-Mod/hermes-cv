@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-05-24T14:48:08.800016+00:00", 
+        "name": "roughness5", 
+        "display_name": "roughness5", 
+        "type": "experiment", 
+        "uid": "23ce5ac4-5692-445a-972a-a07ac3cba2c4"
+    }
+}
