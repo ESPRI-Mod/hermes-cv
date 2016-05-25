@@ -1,0 +1,12 @@
+{
+    "description": "Internal HERMES system user", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-05-24T14:16:58.916514+00:00", 
+        "domain": "climate", 
+        "name": "hermes-mq-user", 
+        "type": "message_user", 
+        "uid": "45f69e9c-ad7a-4679-9c61-7cc3b27c160e"
+    }, 
+    "name": "hermes-mq-user"
+}
