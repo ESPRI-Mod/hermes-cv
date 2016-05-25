@@ -1,4 +1,4 @@
-prodiguer-cv
+hermes-cv
 ============
 
-Prodiguer project CV collection
+HERMES CV collections
