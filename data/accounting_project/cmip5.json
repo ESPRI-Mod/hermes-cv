@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-09-04T08:55:59.093780+00:00", 
+        "name": "cmip5", 
+        "display_name": "cmip5", 
+        "type": "accounting_project", 
+        "uid": "93884ea0-5342-4495-8da3-f8ab07c1b657"
+    }
+}
