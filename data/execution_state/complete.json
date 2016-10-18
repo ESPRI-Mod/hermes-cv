@@ -8,5 +8,6 @@
         "type": "execution_state", 
         "uid": "039d5343-e606-4cc4-8bc3-06c22eca8905"
     }, 
-    "name": "COMPLETE"
+    "name": "COMPLETE",
+    "synonyms": ["c"]
 }

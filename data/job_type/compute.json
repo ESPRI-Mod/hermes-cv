@@ -7,5 +7,6 @@
         "name": "computing", 
         "type": "job_type", 
         "uid": "ae44f2d5-7d59-415d-af53-30cbdcb5f37a"
-    }
+    },
+    "synonyms": ["c"]
 }

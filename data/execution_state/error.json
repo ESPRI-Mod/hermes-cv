@@ -8,5 +8,6 @@
         "type": "execution_state", 
         "uid": "ca30e525-75a0-4e17-9597-f4efd3be3dad"
     }, 
-    "name": "ERROR"
+    "name": "ERROR",
+    "synonyms": ["e"]
 }

@@ -8,5 +8,6 @@
         "type": "execution_state", 
         "uid": "88443619-5538-4dfd-abae-9231639dd0e4"
     }, 
-    "name": "RUNNING"
+    "name": "RUNNING",
+    "synonyms": ["r"]
 }

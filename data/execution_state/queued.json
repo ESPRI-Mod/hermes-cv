@@ -8,5 +8,6 @@
         "type": "execution_state", 
         "uid": "f5489fbc-62d3-4a2e-9dea-818ddf53ff2c"
     }, 
-    "name": "QUEUED"
+    "name": "QUEUED",
+    "synonyms": ["q"]
 }
