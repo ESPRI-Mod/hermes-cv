@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-10-19T22:45:14.682032+00:00", 
+        "name": "degla", 
+        "display_name": "degla", 
+        "type": "experiment", 
+        "uid": "590e760f-0daa-4267-99f2-a413ab9683e2"
+    }
+}
