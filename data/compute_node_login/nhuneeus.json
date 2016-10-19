@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-10-19T22:45:22.062787+00:00", 
+        "name": "nhuneeus", 
+        "display_name": "nhuneeus", 
+        "type": "compute_node_login", 
+        "uid": "e7d334d2-70b5-4585-a000-108ba531399e"
+    }
+}
