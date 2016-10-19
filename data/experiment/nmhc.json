@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-09-13T14:18:34.112211+00:00", 
+        "name": "nmhc", 
+        "display_name": "NMHC", 
+        "type": "experiment", 
+        "uid": "f368f20e-5e7f-4753-abdc-28b9bb41a603"
+    }
+}
