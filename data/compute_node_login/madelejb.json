@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-10-20T14:48:30.369604+00:00", 
+        "name": "madelejb", 
+        "display_name": "madelejb", 
+        "type": "compute_node_login", 
+        "uid": "19baf2b1-b268-4e83-9e8a-8c0db88f9eea"
+    }
+}
