@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-10-25T19:51:08.992406+00:00", 
+        "name": "amip.nud.vs.buoy", 
+        "display_name": "AMIP.NUD.VS.buoy", 
+        "type": "experiment", 
+        "uid": "dff78260-568c-4395-86d1-1431c16f8cbe"
+    }
+}
