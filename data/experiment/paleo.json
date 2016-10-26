@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-10-26T14:59:44.216970+00:00", 
+        "name": "paleo", 
+        "display_name": "paleo", 
+        "type": "experiment", 
+        "uid": "3118c2c8-77d8-46aa-963b-ec4e73f363b8"
+    }
+}
