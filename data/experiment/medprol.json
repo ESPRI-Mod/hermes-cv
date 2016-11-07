@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-11-07T16:10:49.274775+00:00", 
+        "name": "medprol", 
+        "display_name": "MedProl", 
+        "type": "experiment", 
+        "uid": "a3572112-9260-49ea-bf6e-63abc1213910"
+    }
+}
