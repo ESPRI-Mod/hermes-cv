@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-11-10T20:39:14.199071+00:00", 
+        "name": "lmdzor_1m1", 
+        "display_name": "lmdzor_1m1", 
+        "type": "model", 
+        "uid": "2706aa14-3230-455f-ba42-f7d5122d65d1"
+    }
+}
