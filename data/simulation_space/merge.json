@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-11-10T19:51:40.739801+00:00", 
+        "name": "merge", 
+        "display_name": "merge", 
+        "type": "simulation_space", 
+        "uid": "730a8093-0713-463a-b09e-26790d5461ab"
+    }
+}
