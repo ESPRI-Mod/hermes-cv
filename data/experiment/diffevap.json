@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-11-15T11:37:44.599784+00:00", 
+        "name": "diffevap", 
+        "display_name": "diffevap", 
+        "type": "experiment", 
+        "uid": "424cf545-7249-48c6-bea1-b76e8d334fdf"
+    }
+}

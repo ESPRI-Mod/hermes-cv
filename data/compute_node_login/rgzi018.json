@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-11-15T11:37:44.595973+00:00", 
+        "name": "rgzi018", 
+        "display_name": "rgzi018", 
+        "type": "compute_node_login", 
+        "uid": "77cbbab5-bb52-4424-8468-2cc90de597ee"
+    }
+}
