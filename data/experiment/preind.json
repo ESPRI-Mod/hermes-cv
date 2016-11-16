@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-11-16T08:53:45.705593+00:00", 
+        "name": "preind", 
+        "display_name": "Preind", 
+        "type": "experiment", 
+        "uid": "9e677c54-dfeb-4b04-85ac-814a42b6c646"
+    }
+}
