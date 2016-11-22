@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-11-22T15:41:15.798379+00:00", 
+        "name": "jobname", 
+        "display_name": "jobname", 
+        "type": "model", 
+        "uid": "74ca7a8a-8b25-4ac2-9db1-3487ec037e24"
+    }
+}
