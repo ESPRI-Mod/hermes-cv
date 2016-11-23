@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-11-23T14:16:51.800519+00:00", 
+        "name": "cfor130", 
+        "display_name": "cfor130", 
+        "type": "compute_node_login", 
+        "uid": "2324d73a-04b5-45b7-b2a7-4fa79b50a3d4"
+    }
+}
