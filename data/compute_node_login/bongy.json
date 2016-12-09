@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-12-09T14:43:07.000989+00:00", 
+        "name": "bongy", 
+        "display_name": "bongy", 
+        "type": "compute_node_login", 
+        "uid": "ed77b3a1-9266-4826-9739-c2bd8a10cfe3"
+    }
+}
