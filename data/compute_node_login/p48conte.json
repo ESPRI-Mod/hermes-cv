@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-12-12T10:36:00.159504+00:00", 
+        "name": "p48conte", 
+        "display_name": "p48conte", 
+        "type": "compute_node_login", 
+        "uid": "e1463b80-0913-4d51-9e7e-04bd37c1e40c"
+    }
+}
