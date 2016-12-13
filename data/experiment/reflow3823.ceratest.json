@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-12-13T09:02:28.225237+00:00", 
+        "name": "reflow3823.ceratest", 
+        "display_name": "reflow3823.CERAtest", 
+        "type": "experiment", 
+        "uid": "3498c191-8196-46ae-acb0-8580e8718318"
+    }
+}
