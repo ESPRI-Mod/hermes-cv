@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-12-13T12:54:11.548319+00:00", 
+        "name": "refhigh3823.ceratest", 
+        "display_name": "refhigh3823.CERAtest", 
+        "type": "experiment", 
+        "uid": "01cc5b83-6a75-477f-880e-21f711aa9446"
+    }
+}
