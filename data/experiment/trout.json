@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-12-15T16:11:12.295645+00:00", 
+        "name": "trout", 
+        "display_name": "trout", 
+        "type": "experiment", 
+        "uid": "21a22e32-c4f8-4261-81cd-ee15bb02dd4d"
+    }
+}
