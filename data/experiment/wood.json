@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-12-27T16:09:30.446148+00:00", 
+        "name": "wood", 
+        "display_name": "wood", 
+        "type": "experiment", 
+        "uid": "7b24f95e-c2d2-469f-86df-bdcf34b24813"
+    }
+}

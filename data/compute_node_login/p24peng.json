@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-12-27T16:09:30.444091+00:00", 
+        "name": "p24peng", 
+        "display_name": "p24peng", 
+        "type": "compute_node_login", 
+        "uid": "11e27cdf-edf4-4723-93d4-9378c03d76b6"
+    }
+}
