@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2016-12-28T11:03:45.190746+00:00", 
+        "name": "defrancd", 
+        "display_name": "defrancd", 
+        "type": "compute_node_login", 
+        "uid": "01da65e5-aa35-4910-a49e-dcc6a6505b0b"
+    }
+}
