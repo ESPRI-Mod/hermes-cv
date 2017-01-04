@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-04T15:04:04.206322+00:00", 
+        "name": "fluteauf", 
+        "display_name": "fluteauf", 
+        "type": "compute_node_login", 
+        "uid": "0d1366e2-c783-4b0d-bae1-76931244c9c0"
+    }
+}
