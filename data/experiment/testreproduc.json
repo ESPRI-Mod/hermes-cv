@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-04T22:55:46.640868+00:00", 
+        "name": "testreproduc", 
+        "display_name": "testreproduc", 
+        "type": "experiment", 
+        "uid": "64f5fadb-e89d-4fe7-8edd-fca7f9594b7e"
+    }
+}
