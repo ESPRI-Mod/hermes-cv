@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-06T07:17:06.874445+00:00", 
+        "name": "ipsl-climserv-merlin3-c.climserv", 
+        "display_name": "ipsl-climserv-merlin3-c.climserv", 
+        "type": "compute_node_machine", 
+        "uid": "1d1310f6-522e-47ca-872f-db52ae0ba16f"
+    }
+}
