@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-12T16:22:46.830346+00:00", 
+        "name": "highresol", 
+        "display_name": "highresol", 
+        "type": "experiment", 
+        "uid": "afce5a8a-368c-4561-b459-b9e7052cf599"
+    }
+}
