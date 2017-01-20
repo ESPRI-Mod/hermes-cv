@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-20T12:27:17.770699+00:00", 
+        "name": "lmdzor.vs.buoy", 
+        "display_name": "LMDZOR.vs.buoy", 
+        "type": "experiment", 
+        "uid": "945103bc-1789-4312-bf83-58c84c9b8180"
+    }
+}
