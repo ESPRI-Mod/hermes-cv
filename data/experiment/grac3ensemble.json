@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-23T09:07:53.654918+00:00", 
+        "name": "grac3ensemble", 
+        "display_name": "GRAc3ensemble", 
+        "type": "experiment", 
+        "uid": "a9f104dc-9723-4dc3-9074-cd4ea42293a6"
+    }
+}
