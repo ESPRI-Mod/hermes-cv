@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-24T10:43:52.217820+00:00", 
+        "name": "p519don", 
+        "display_name": "p519don", 
+        "type": "compute_node_login", 
+        "uid": "7f3134c2-2c69-4b10-bfed-7ed96ae91c96"
+    }
+}
