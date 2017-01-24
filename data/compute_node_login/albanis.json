@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-24T16:02:43.000687+00:00", 
+        "name": "albanis", 
+        "display_name": "albanis", 
+        "type": "compute_node_login", 
+        "uid": "71e2ba27-e344-4547-8e8d-ddf1f2bf5623"
+    }
+}
