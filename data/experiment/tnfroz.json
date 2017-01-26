@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-26T13:09:45.531309+00:00", 
+        "name": "tnfroz", 
+        "display_name": "tnfroz", 
+        "type": "experiment", 
+        "uid": "a29265ba-bc9d-4c2c-b03d-aa09d3712b4f"
+    }
+}
