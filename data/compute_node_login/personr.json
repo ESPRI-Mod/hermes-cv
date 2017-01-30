@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-30T15:22:59.412927+00:00", 
+        "name": "personr", 
+        "display_name": "personr", 
+        "type": "compute_node_login", 
+        "uid": "2c9f8436-a25c-49e7-8619-2dcec0a4c150"
+    }
+}
