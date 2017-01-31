@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-01-31T09:01:27.921867+00:00", 
+        "name": "trunkgrast", 
+        "display_name": "trunkGRAST", 
+        "type": "experiment", 
+        "uid": "88b5b4ca-fec4-4cd0-a55b-c3f34fcf1784"
+    }
+}
