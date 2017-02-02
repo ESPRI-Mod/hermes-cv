@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-02-02T21:52:59.038455+00:00", 
+        "name": "p24remau", 
+        "display_name": "p24remau", 
+        "type": "compute_node_login", 
+        "uid": "274e7439-6683-485e-85fd-f73a7ce70825"
+    }
+}
