@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-02-15T16:39:35.207687+00:00", 
+        "name": "antart", 
+        "display_name": "antart", 
+        "type": "experiment", 
+        "uid": "ff806e8b-8c77-4a58-8191-07fa2845b9e7"
+    }
+}
