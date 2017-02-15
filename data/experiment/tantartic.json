@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-02-15T18:19:16.561182+00:00", 
+        "name": "tantartic", 
+        "display_name": "tantartic", 
+        "type": "experiment", 
+        "uid": "9dce6ada-9d91-41dd-b232-bf4de70f4638"
+    }
+}
