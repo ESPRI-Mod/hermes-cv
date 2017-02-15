@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-02-15T15:36:45.309093+00:00", 
+        "name": "kwiatkol", 
+        "display_name": "kwiatkol", 
+        "type": "compute_node_login", 
+        "uid": "659610e1-8b04-4613-9966-34d98041dbdd"
+    }
+}
