@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-02-19T23:12:21.562472+00:00", 
+        "name": "dev@", 
+        "display_name": "dev@", 
+        "type": "simulation_space", 
+        "uid": "c6267498-85c1-447f-bb80-caa69c97c320"
+    }
+}
