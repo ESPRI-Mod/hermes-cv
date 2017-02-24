@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-02-24T09:14:34.848974+00:00", 
+        "name": "ducharna", 
+        "display_name": "ducharna", 
+        "type": "compute_node_login", 
+        "uid": "8a1b8744-4c4f-469b-bba5-d424080e2f3f"
+    }
+}
