@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-03-03T16:13:58.277227+00:00", 
+        "name": "resovska", 
+        "display_name": "resovska", 
+        "type": "compute_node_login", 
+        "uid": "d3c09289-d3c6-4043-88ef-c5e4a03a6fbf"
+    }
+}
