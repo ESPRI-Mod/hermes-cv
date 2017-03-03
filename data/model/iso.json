@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-03-03T10:43:09.398962+00:00", 
+        "name": "iso", 
+        "display_name": "iso", 
+        "type": "model", 
+        "uid": "b7730c60-209b-454b-b63a-7ac65248a03c"
+    }
+}
