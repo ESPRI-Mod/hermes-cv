@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-03-10T15:20:48.127721+00:00", 
+        "name": "tp02", 
+        "display_name": "tp02", 
+        "type": "compute_node_login", 
+        "uid": "daf12134-9e2b-4492-afb5-e47c81423fa0"
+    }
+}
