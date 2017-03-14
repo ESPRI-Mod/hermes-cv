@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-03-14T16:36:56.471081+00:00", 
+        "name": "lurtont", 
+        "display_name": "lurtont", 
+        "type": "compute_node_login", 
+        "uid": "a942ab55-af3f-4a73-94d0-f22c8bcd7198"
+    }
+}
