@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-03-16T12:22:31.340628+00:00", 
+        "name": "sarrac", 
+        "display_name": "sarrac", 
+        "type": "compute_node_login", 
+        "uid": "d1e1794d-d534-4a5a-b67d-245fe08fdb16"
+    }
+}
