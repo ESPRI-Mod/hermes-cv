@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-03-27T21:26:48.985392+00:00", 
+        "name": "updated.isimip2b.ipsl.onedeg", 
+        "display_name": "updated.isimip2b.ipsl.onedeg", 
+        "type": "experiment", 
+        "uid": "3ad68ede-f6a1-4e75-8c0e-c0509e2bf0b0"
+    }
+}
