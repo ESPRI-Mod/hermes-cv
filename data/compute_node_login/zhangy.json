@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-04-13T13:37:39.735495+00:00", 
+        "name": "zhangy", 
+        "display_name": "zhangy", 
+        "type": "compute_node_login", 
+        "uid": "0eb9b4ba-e056-40e5-935e-3a2a436784e1"
+    }
+}
