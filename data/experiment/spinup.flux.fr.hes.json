@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-04-25T12:53:39.584555+00:00", 
+        "name": "spinup.flux.fr.hes", 
+        "display_name": "spinup.flux.FR.Hes", 
+        "type": "experiment", 
+        "uid": "b7a677b0-fdfa-4bb7-ba30-4ef238220b73"
+    }
+}
