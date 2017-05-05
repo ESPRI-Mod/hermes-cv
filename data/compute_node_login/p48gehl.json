@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-05-05T10:20:42.275429+00:00", 
+        "name": "p48gehl", 
+        "display_name": "p48gehl", 
+        "type": "compute_node_login", 
+        "uid": "c51c5fc4-2815-49f4-af85-c7bbe0fd8d51"
+    }
+}
