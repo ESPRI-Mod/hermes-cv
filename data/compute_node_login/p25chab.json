@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-05-10T14:23:04.040672+00:00", 
+        "name": "p25chab", 
+        "display_name": "p25chab", 
+        "type": "compute_node_login", 
+        "uid": "5d3335f4-323c-4e89-98d7-e1a748a1e5e6"
+    }
+}
