@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-05-15T13:52:02.983436+00:00", 
+        "name": "deshayej", 
+        "display_name": "deshayej", 
+        "type": "compute_node_login", 
+        "uid": "d97d5d70-160f-4014-afdc-afbe457a879b"
+    }
+}
