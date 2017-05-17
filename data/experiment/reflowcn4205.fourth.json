@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-05-17T09:24:18.248332+00:00", 
+        "name": "reflowcn4205.fourth", 
+        "display_name": "reflowCN4205.fourth", 
+        "type": "experiment", 
+        "uid": "c10933f5-59ba-48f2-8769-1cc41b6baab0"
+    }
+}
