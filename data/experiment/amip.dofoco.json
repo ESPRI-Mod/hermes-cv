@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-05-23T13:18:21.107224+00:00", 
+        "name": "amip.dofoco", 
+        "display_name": "amip.dofoco", 
+        "type": "experiment", 
+        "uid": "95eb8f8c-7b1c-484b-874a-670c24927139"
+    }
+}
