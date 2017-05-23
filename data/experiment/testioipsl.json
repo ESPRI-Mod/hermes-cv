@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-05-23T14:20:58.310571+00:00", 
+        "name": "testioipsl", 
+        "display_name": "testioipsl", 
+        "type": "experiment", 
+        "uid": "7ed49d5d-6441-4474-8b46-b8b791b01918"
+    }
+}
