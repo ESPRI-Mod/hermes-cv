@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-06-08T11:15:38.725587+00:00", 
+        "name": "unterbem", 
+        "display_name": "unterbem", 
+        "type": "compute_node_login", 
+        "uid": "8b7fbca0-0d3f-48c2-81af-90bc203522f7"
+    }
+}
