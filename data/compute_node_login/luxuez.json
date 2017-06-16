@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-06-16T16:46:59.655089+00:00", 
+        "name": "luxuez", 
+        "display_name": "luxuez", 
+        "type": "compute_node_login", 
+        "uid": "ac76cb74-c093-40c6-8815-8030857db5e7"
+    }
+}
