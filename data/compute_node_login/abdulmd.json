@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-06-19T13:19:20.838545+00:00", 
+        "name": "abdulmd", 
+        "display_name": "abdulmd", 
+        "type": "compute_node_login", 
+        "uid": "c285e895-abaa-4009-ab3d-9a0bc8501ac1"
+    }
+}
