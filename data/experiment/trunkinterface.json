@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-06-21T12:43:50.681621+00:00", 
+        "name": "trunkinterface", 
+        "display_name": "trunkInterface", 
+        "type": "experiment", 
+        "uid": "553fcc16-b99d-4368-87a3-68902231137e"
+    }
+}
