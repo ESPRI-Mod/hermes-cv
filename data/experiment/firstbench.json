@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-07-03T18:13:56.143627+00:00", 
+        "name": "firstbench", 
+        "display_name": "FirstBench", 
+        "type": "experiment", 
+        "uid": "e4e19827-5aba-4eaf-ac14-7a7962164d28"
+    }
+}
