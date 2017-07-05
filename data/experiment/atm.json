@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-07-05T11:44:16.651358+00:00", 
+        "name": "atm", 
+        "display_name": "ATM", 
+        "type": "experiment", 
+        "uid": "0b5e5dd9-9f07-4879-a7a7-4846bf4038eb"
+    }
+}
