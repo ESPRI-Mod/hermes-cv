@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-07-05T21:43:55.302280+00:00", 
+        "name": "ttnudge", 
+        "display_name": "ttnudge", 
+        "type": "experiment", 
+        "uid": "b175cf97-c82c-4649-ae06-6a92b4fe0359"
+    }
+}
