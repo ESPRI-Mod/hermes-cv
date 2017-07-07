@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-07-07T00:23:56.702661+00:00", 
+        "name": "ipslcm6-mr", 
+        "display_name": "ipslcm6-mr", 
+        "type": "model", 
+        "uid": "dd142afd-a084-4030-85e7-ef841d23c58c"
+    }
+}
