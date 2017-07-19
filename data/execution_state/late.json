@@ -1,0 +1,13 @@
+{
+    "description": "Process is late and has exceeded its allocated CPU time.", 
+    "meta": {
+        "associations": [], 
+        "create_date": "2015-04-23T13:14:58.929963+00:00", 
+        "domain": "climate", 
+        "name": "late", 
+        "type": "execution_state", 
+        "uid": "b7b353a6-555c-4912-922a-5f241c629985"
+    }, 
+    "name": "LATE",
+    "synonyms": ["l"]
+}
