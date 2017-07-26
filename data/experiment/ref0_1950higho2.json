@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-07-26T13:03:12.358271+00:00", 
+        "name": "ref0_1950higho2", 
+        "display_name": "REF0_1950highO2", 
+        "type": "experiment", 
+        "uid": "e08a20a3-8930-4b25-9973-e365d8049314"
+    }
+}
