@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-08-05T09:11:37.523779+00:00", 
+        "name": "lsce", 
+        "display_name": "lsce", 
+        "type": "compute_node", 
+        "uid": "456277ac-b374-4162-8899-1b633c9f0be0"
+    }
+}
