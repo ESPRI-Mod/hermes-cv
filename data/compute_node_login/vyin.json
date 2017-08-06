@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-08-06T12:29:11.105369+00:00", 
+        "name": "vyin", 
+        "display_name": "vyin", 
+        "type": "compute_node_login", 
+        "uid": "5f8f8cb5-8a49-4862-a424-e9d89efd76f7"
+    }
+}
