@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-08-08T12:53:37.904958+00:00", 
+        "name": "test.phenology", 
+        "display_name": "test.phenology", 
+        "type": "experiment", 
+        "uid": "614f33ea-346e-48b8-83c5-6b57e562f628"
+    }
+}
