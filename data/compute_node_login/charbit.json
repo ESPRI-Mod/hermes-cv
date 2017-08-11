@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-08-11T11:35:42.342032+00:00", 
+        "name": "charbit", 
+        "display_name": "charbit", 
+        "type": "compute_node_login", 
+        "uid": "e7442625-c17e-4d7c-b5a4-d0a6029c5050"
+    }
+}
