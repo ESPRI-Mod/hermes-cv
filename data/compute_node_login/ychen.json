@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-08-15T08:35:11.059776+00:00", 
+        "name": "ychen", 
+        "display_name": "ychen", 
+        "type": "compute_node_login", 
+        "uid": "5cdcf82d-4859-406d-bf0a-8a3bcb112000"
+    }
+}

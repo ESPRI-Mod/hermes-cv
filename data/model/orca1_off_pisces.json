@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-08-16T06:40:35.602489+00:00", 
+        "name": "orca1_off_pisces", 
+        "display_name": "orca1_off_pisces", 
+        "type": "model", 
+        "uid": "b72327f9-c6a2-4590-9f16-cd5b4f041b6e"
+    }
+}
