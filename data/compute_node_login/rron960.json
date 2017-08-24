@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-08-24T14:00:37.497068+00:00", 
+        "name": "rron960", 
+        "display_name": "rron960", 
+        "type": "compute_node_login", 
+        "uid": "20506125-54ae-4d73-90bc-3aceec2d7465"
+    }
+}
