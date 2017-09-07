@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-09-07T06:56:44.808566+00:00", 
+        "name": "speng", 
+        "display_name": "speng", 
+        "type": "compute_node_login", 
+        "uid": "417ea26f-8b04-4cea-8340-464cce89d3ce"
+    }
+}
