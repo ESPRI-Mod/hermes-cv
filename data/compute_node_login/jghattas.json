@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-09-09T15:36:06.960529+00:00", 
+        "name": "jghattas", 
+        "display_name": "jghattas", 
+        "type": "compute_node_login", 
+        "uid": "f71b1f38-039b-44c4-b2b1-ced2bea22c58"
+    }
+}
