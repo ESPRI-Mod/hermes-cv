@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-09-12T11:14:52.001467+00:00", 
+        "name": "trendy2017", 
+        "display_name": "TRENDY2017", 
+        "type": "experiment", 
+        "uid": "154c8b2c-a013-4ec7-9192-dcc33c434cda"
+    }
+}
