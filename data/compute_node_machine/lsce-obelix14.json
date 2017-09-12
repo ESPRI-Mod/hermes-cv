@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-09-12T14:33:05.090018+00:00", 
+        "name": "lsce-obelix14", 
+        "display_name": "lsce-obelix14", 
+        "type": "compute_node_machine", 
+        "uid": "a2855cc1-fa3d-4127-89e3-58de9171706a"
+    }
+}
