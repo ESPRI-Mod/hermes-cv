@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-09-19T06:10:57.235726+00:00", 
+        "name": "bguenet", 
+        "display_name": "bguenet", 
+        "type": "compute_node_login", 
+        "uid": "3f21b8c7-949d-46de-8391-8f5777bcaa7c"
+    }
+}
