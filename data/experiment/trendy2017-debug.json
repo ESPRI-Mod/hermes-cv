@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-09-22T14:26:59.839478+00:00", 
+        "name": "trendy2017-debug", 
+        "display_name": "TRENDY2017-debug", 
+        "type": "experiment", 
+        "uid": "e3f5d577-5271-4d02-a91e-d340274e867a"
+    }
+}
