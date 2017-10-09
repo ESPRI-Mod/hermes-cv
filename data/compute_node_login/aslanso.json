@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-09T10:39:11.549197+00:00", 
+        "name": "aslanso", 
+        "display_name": "aslanso", 
+        "type": "compute_node_login", 
+        "uid": "dafca90c-56e6-416a-93d5-97c3c9f42a9b"
+    }
+}
