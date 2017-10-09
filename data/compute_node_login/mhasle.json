@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-09T10:21:20.519389+00:00", 
+        "name": "mhasle", 
+        "display_name": "mhasle", 
+        "type": "compute_node_login", 
+        "uid": "43888e10-2f85-4e4c-9047-f6121118bb01"
+    }
+}
