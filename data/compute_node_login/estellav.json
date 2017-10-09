@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-09T16:23:10.955541+00:00", 
+        "name": "estellav", 
+        "display_name": "estellav", 
+        "type": "compute_node_login", 
+        "uid": "961aeb05-eb41-42b8-acb6-e5f34b2794fb"
+    }
+}
