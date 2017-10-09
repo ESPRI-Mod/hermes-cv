@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-09T16:40:12.550063+00:00", 
+        "name": "simoname", 
+        "display_name": "simoname", 
+        "type": "compute_node_login", 
+        "uid": "2b903a55-cf8b-4045-941a-fb660e142dcb"
+    }
+}
