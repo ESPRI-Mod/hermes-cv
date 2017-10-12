@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-12T09:05:47.953525+00:00", 
+        "name": "test_devpush", 
+        "display_name": "Test_DevPush", 
+        "type": "experiment", 
+        "uid": "3346a5ee-5bc5-4e2b-b236-b50514ebb623"
+    }
+}
