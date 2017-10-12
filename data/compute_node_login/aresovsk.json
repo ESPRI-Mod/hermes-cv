@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-12T13:41:07.030172+00:00", 
+        "name": "aresovsk", 
+        "display_name": "aresovsk", 
+        "type": "compute_node_login", 
+        "uid": "aaa685a2-0271-4a0d-9f8e-765e83ad7ff5"
+    }
+}
