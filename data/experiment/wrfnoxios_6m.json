@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-13T15:16:42.089585+00:00", 
+        "name": "wrfnoxios_6m", 
+        "display_name": "WRFNOXIOS_6M", 
+        "type": "experiment", 
+        "uid": "c86d1bf0-b34b-41c4-affc-324c1624b56e"
+    }
+}
