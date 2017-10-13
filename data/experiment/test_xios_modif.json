@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-13T14:10:11.175845+00:00", 
+        "name": "test_xios_modif", 
+        "display_name": "Test_XIOS_MODIF", 
+        "type": "experiment", 
+        "uid": "1b6f545d-319f-4ebe-b5fe-0ae69ad76653"
+    }
+}
