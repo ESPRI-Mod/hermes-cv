@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-17T14:38:21.463552+00:00", 
+        "name": "secsto3", 
+        "display_name": "secsto3", 
+        "type": "experiment", 
+        "uid": "db6be2a6-bad4-412c-b513-f52ac7401f27"
+    }
+}
