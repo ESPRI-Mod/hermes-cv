@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-17T14:31:04.564860+00:00", 
+        "name": "bedidil", 
+        "display_name": "bedidil", 
+        "type": "compute_node_login", 
+        "uid": "bbb13be9-afde-422d-9b25-a5edf6e3ccd6"
+    }
+}
