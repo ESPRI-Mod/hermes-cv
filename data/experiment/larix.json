@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-17T13:12:35.595125+00:00", 
+        "name": "larix", 
+        "display_name": "LARIX", 
+        "type": "experiment", 
+        "uid": "475c13c6-f636-44be-9e76-938d9b730fde"
+    }
+}
