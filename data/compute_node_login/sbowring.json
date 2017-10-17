@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-17T10:01:01.223147+00:00", 
+        "name": "sbowring", 
+        "display_name": "sbowring", 
+        "type": "compute_node_login", 
+        "uid": "fa561278-a12c-44f6-a5f1-6ab49a948b9f"
+    }
+}
