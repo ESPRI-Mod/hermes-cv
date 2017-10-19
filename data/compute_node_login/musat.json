@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-19T08:48:48.174330+00:00", 
+        "name": "musat", 
+        "display_name": "musat", 
+        "type": "compute_node_login", 
+        "uid": "d963cdb8-a422-4a30-8aa4-0489af4e7f03"
+    }
+}
