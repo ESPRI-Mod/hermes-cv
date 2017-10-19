@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-19T05:40:23.444350+00:00", 
+        "name": "testl", 
+        "display_name": "testl", 
+        "type": "simulation_space", 
+        "uid": "4df103c5-bef1-4e22-aae9-9982cf3d114d"
+    }
+}
