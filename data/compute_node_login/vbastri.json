@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-25T07:05:42.975711+00:00", 
+        "name": "vbastri", 
+        "display_name": "vbastri", 
+        "type": "compute_node_login", 
+        "uid": "0f291af7-fd3c-466b-a35e-56aac25c8521"
+    }
+}
