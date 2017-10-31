@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-10-31T23:07:29.444530+00:00", 
+        "name": "cnp_nmip", 
+        "display_name": "CNP_nmip", 
+        "type": "experiment", 
+        "uid": "e753b659-bb77-4eeb-965e-8ed6a87370a1"
+    }
+}
