@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-01T00:13:29.272071+00:00", 
+        "name": "test12m_postproc", 
+        "display_name": "Test12M_PostProc", 
+        "type": "experiment", 
+        "uid": "431e59f2-f1d1-4896-bc9c-c08009051183"
+    }
+}
