@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-01T00:14:55.038576+00:00", 
+        "name": "nemo_standalone", 
+        "display_name": "NEMO_Standalone", 
+        "type": "experiment", 
+        "uid": "14158f33-e135-49eb-8025-2085fe8bcd79"
+    }
+}
