@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-07T23:23:51.137068+00:00", 
+        "name": "test_wrforch_oldorch", 
+        "display_name": "Test_WRFORCH_OLDORCH", 
+        "type": "experiment", 
+        "uid": "dba034b7-7d3d-4454-b3ab-49adcd9d9ec4"
+    }
+}
