@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-08T10:18:35.094615+00:00", 
+        "name": "wrf_noxios_3h", 
+        "display_name": "WRF_NOXIOS_3H", 
+        "type": "experiment", 
+        "uid": "6b6a78b7-04f5-4551-bb81-85fc4a3434e1"
+    }
+}
