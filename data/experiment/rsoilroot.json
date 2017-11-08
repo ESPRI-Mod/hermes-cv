@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-08T09:29:06.916283+00:00", 
+        "name": "rsoilroot", 
+        "display_name": "RSOILROOT", 
+        "type": "experiment", 
+        "uid": "c4dd0007-5c05-42be-ade4-e1e8136b282b"
+    }
+}
