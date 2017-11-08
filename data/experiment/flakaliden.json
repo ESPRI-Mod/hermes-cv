@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-08T12:31:40.667015+00:00", 
+        "name": "flakaliden", 
+        "display_name": "FLAKALIDEN", 
+        "type": "experiment", 
+        "uid": "b285ad79-b81a-4ddb-b10a-43ea5387368d"
+    }
+}
