@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-09T13:26:42.042832+00:00", 
+        "name": "esalmon", 
+        "display_name": "esalmon", 
+        "type": "compute_node_login", 
+        "uid": "aa4eff5c-6c0b-426b-87fb-18b523cc2d51"
+    }
+}
