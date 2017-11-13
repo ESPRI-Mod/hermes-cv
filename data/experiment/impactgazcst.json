@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-13T10:30:04.972235+00:00", 
+        "name": "impactgazcst", 
+        "display_name": "impactgazcst", 
+        "type": "experiment", 
+        "uid": "c641a01b-e579-434f-bdaf-09dbaa942370"
+    }
+}
