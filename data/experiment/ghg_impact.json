@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-13T10:52:16.626822+00:00", 
+        "name": "ghg_impact", 
+        "display_name": "GHG_impact", 
+        "type": "experiment", 
+        "uid": "43a102bd-bf52-400b-8f6b-31f35206284a"
+    }
+}
