@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-18T20:26:10.319104+00:00", 
+        "name": "test2mwrforch", 
+        "display_name": "Test2mWRFORCH", 
+        "type": "experiment", 
+        "uid": "30bac282-d40e-40ae-8f56-104137c3c722"
+    }
+}
