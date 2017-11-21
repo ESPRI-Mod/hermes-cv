@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-21T17:07:34.336353+00:00", 
+        "name": "toumoula", 
+        "display_name": "toumoula", 
+        "type": "compute_node_login", 
+        "uid": "145f683e-0dcf-47a8-971a-9389711cad6f"
+    }
+}
