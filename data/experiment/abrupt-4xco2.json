@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-23T21:46:34.926844+00:00", 
+        "name": "abrupt-4xco2", 
+        "display_name": "abrupt-4xCO2", 
+        "type": "experiment", 
+        "uid": "66f3cc3a-f21f-47f2-95ae-4dbb7fc3b9e5"
+    }
+}
