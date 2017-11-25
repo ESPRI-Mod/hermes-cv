@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-25T16:51:49.739993+00:00", 
+        "name": "medcordex-a", 
+        "display_name": "MEDCORDEX-A", 
+        "type": "experiment", 
+        "uid": "89870c8c-5ba9-4c9e-8206-b2abe35076a9"
+    }
+}

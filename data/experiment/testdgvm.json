@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-11-25T06:49:10.782046+00:00", 
+        "name": "testdgvm", 
+        "display_name": "testdgvm", 
+        "type": "experiment", 
+        "uid": "da8157c7-6199-4e82-9d99-06ea9336335d"
+    }
+}
