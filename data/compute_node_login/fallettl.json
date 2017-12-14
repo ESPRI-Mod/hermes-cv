@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-12-13T19:44:38.185481+00:00", 
+        "name": "fallettl", 
+        "display_name": "fallettl", 
+        "type": "compute_node_login", 
+        "uid": "7d989a75-2b6c-4ebd-b283-7df671dd0086"
+    }
+}

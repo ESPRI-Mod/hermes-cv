@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-12-13T19:44:39.971815+00:00", 
+        "name": "dufresne", 
+        "display_name": "dufresne", 
+        "type": "compute_node_login", 
+        "uid": "19952fe0-3eea-45fd-a2bc-5c85a3b6d8ca"
+    }
+}

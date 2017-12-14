@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-12-13T19:08:25.687857+00:00", 
+        "name": "testvegetcov", 
+        "display_name": "testvegetcov", 
+        "type": "experiment", 
+        "uid": "dd87140a-e116-44c3-9b95-3693074e7443"
+    }
+}

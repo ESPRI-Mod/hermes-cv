@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-12-14T21:39:53.337958+00:00", 
+        "name": "maignan", 
+        "display_name": "maignan", 
+        "type": "compute_node_login", 
+        "uid": "de880aa5-bc8a-4cc5-98c0-7dcf3584c274"
+    }
+}

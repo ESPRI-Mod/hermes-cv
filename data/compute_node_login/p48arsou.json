@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-12-13T19:44:41.119954+00:00", 
+        "name": "p48arsou", 
+        "display_name": "p48arsou", 
+        "type": "compute_node_login", 
+        "uid": "24a28d21-7f7d-418f-8ba3-fdb98bce464d"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-12-13T19:44:39.512955+00:00", 
+        "name": "levavasg", 
+        "display_name": "levavasg", 
+        "type": "compute_node_login", 
+        "uid": "023ff41e-d52c-4e3d-96d7-00fde74829ba"
+    }
+}
