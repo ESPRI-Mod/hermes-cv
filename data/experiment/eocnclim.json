@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-12-15T16:28:00.379307+00:00", 
+        "name": "eocnclim", 
+        "display_name": "EOCNclim", 
+        "type": "experiment", 
+        "uid": "ffd5af19-6382-4c17-befd-a21b8fd07ebc"
+    }
+}
