@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2017-12-19T15:05:48.249780+00:00", 
+        "name": "spin1", 
+        "display_name": "spin1", 
+        "type": "simulation_space", 
+        "uid": "648d4d5a-8ce9-494d-bcbe-467bde941955"
+    }
+}
