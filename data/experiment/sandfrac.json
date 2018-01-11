@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-01-11T11:47:35.720226+00:00", 
+        "name": "sandfrac", 
+        "display_name": "sandfrac", 
+        "type": "experiment", 
+        "uid": "b22957c5-c180-4dd3-8b2a-6b132738d2e2"
+    }
+}
