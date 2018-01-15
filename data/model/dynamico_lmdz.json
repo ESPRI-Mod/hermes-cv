@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-01-15T14:28:41.444549+00:00", 
+        "name": "dynamico_lmdz", 
+        "display_name": "dynamico_lmdz", 
+        "type": "model", 
+        "uid": "8c808c14-cd76-4dca-852d-274145ae0941"
+    }
+}
