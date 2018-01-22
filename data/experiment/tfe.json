@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-01-22T12:45:16.179417+00:00", 
+        "name": "tfe", 
+        "display_name": "TFE", 
+        "type": "experiment", 
+        "uid": "b1049673-918b-457b-b568-62466a936ee2"
+    }
+}
