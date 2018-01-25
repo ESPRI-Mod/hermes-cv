@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-01-25T12:37:14.490156+00:00", 
+        "name": "tickets", 
+        "display_name": "TICKETS", 
+        "type": "experiment", 
+        "uid": "484ccb42-f833-4e65-8d3a-aeb85e4b37d1"
+    }
+}
