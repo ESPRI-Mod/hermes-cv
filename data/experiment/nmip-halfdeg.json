@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-01-29T15:22:52.349375+00:00", 
+        "name": "nmip-halfdeg", 
+        "display_name": "NMIP-halfdeg", 
+        "type": "experiment", 
+        "uid": "3f768a72-4693-4d5a-b027-b610e51a873d"
+    }
+}
