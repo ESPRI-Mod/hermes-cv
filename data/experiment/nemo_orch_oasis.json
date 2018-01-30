@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-01-30T15:12:32.579126+00:00", 
+        "name": "nemo_orch_oasis", 
+        "display_name": "NEMO_ORCH_OASIS", 
+        "type": "experiment", 
+        "uid": "1bd46e67-5b28-47bc-8fa4-d68836e475ef"
+    }
+}
