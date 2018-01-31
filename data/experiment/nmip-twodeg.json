@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-01-31T10:16:32.177479+00:00", 
+        "name": "nmip-twodeg", 
+        "display_name": "NMIP-twodeg", 
+        "type": "experiment", 
+        "uid": "dfb7a6a6-f35e-4e4f-802e-14ee3b1932b2"
+    }
+}
