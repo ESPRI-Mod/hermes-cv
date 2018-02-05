@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-05T13:18:27.611769+00:00", 
+        "name": "rpennel", 
+        "display_name": "rpennel", 
+        "type": "compute_node_login", 
+        "uid": "7d627249-8384-4b0d-a45d-6e384aed9cd3"
+    }
+}
