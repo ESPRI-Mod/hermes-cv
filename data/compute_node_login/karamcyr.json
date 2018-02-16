@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-16T11:39:46.051094+00:00", 
+        "name": "karamcyr", 
+        "display_name": "karamcyr", 
+        "type": "compute_node_login", 
+        "uid": "a8080ae2-8386-4718-bdc4-de8345039ee0"
+    }
+}
