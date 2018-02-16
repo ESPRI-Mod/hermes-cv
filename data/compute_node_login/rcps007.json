@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-16T16:11:53.103626+00:00", 
+        "name": "rcps007", 
+        "display_name": "rcps007", 
+        "type": "compute_node_login", 
+        "uid": "6461cecc-dfa0-45ca-bd9a-0b892bac30a7"
+    }
+}
