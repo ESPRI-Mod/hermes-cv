@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-25T21:10:43.146046+00:00", 
+        "name": "cgommet", 
+        "display_name": "cgommet", 
+        "type": "compute_node_login", 
+        "uid": "f4c45307-335f-4c4b-b3b7-70444e7355c6"
+    }
+}
