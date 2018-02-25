@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-25T21:33:23.317460+00:00", 
+        "name": "ahastie", 
+        "display_name": "ahastie", 
+        "type": "compute_node_login", 
+        "uid": "da49f1be-118c-4226-ac9c-43494e2fc954"
+    }
+}
