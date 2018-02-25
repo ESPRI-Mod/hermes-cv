@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-25T21:09:54.574059+00:00", 
+        "name": "mcamino", 
+        "display_name": "mcamino", 
+        "type": "compute_node_login", 
+        "uid": "86efccfb-b865-49a9-a90f-4e6641745d46"
+    }
+}
