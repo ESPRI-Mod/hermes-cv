@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-25T21:10:56.313070+00:00", 
+        "name": "hzhang", 
+        "display_name": "hzhang", 
+        "type": "compute_node_login", 
+        "uid": "ccf6a88b-2636-46a5-a2be-1fe5f31f0156"
+    }
+}
