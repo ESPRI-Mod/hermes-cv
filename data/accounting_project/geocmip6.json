@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-25T21:11:04.453696+00:00", 
+        "name": "geocmip6", 
+        "display_name": "geocmip6", 
+        "type": "accounting_project", 
+        "uid": "1a828330-4bfe-45f9-9efc-9242e3ee0996"
+    }
+}
