@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-25T21:14:34.451706+00:00", 
+        "name": "mtifafi", 
+        "display_name": "mtifafi", 
+        "type": "compute_node_login", 
+        "uid": "cd4b7589-f782-4184-a52b-1514a277ce9f"
+    }
+}
