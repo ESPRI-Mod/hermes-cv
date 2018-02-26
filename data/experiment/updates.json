@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-26T13:19:38.607835+00:00", 
+        "name": "updates", 
+        "display_name": "UPDATES", 
+        "type": "experiment", 
+        "uid": "f4e9d3b2-9354-4a8f-91c0-dfb39fb7393b"
+    }
+}
