@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-26T15:19:26.417196+00:00", 
+        "name": "rlaue", 
+        "display_name": "rlaue", 
+        "type": "compute_node_login", 
+        "uid": "30bbe6bf-3376-4574-a541-60817e77ebdc"
+    }
+}
