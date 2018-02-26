@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-26T12:37:17.435615+00:00", 
+        "name": "lansoas", 
+        "display_name": "lansoas", 
+        "type": "compute_node_login", 
+        "uid": "a6b841c1-c24e-40b8-8e01-3d7a43029e64"
+    }
+}
