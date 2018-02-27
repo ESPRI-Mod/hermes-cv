@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-02-27T10:01:55.749158+00:00", 
+        "name": "cchambon", 
+        "display_name": "cchambon", 
+        "type": "compute_node_login", 
+        "uid": "07bc5636-5832-46b2-a077-ad40709b1a4c"
+    }
+}
