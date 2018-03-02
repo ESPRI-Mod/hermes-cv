@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-02T10:40:51.141329+00:00", 
+        "name": "ajornet", 
+        "display_name": "ajornet", 
+        "type": "compute_node_login", 
+        "uid": "c0356235-ef6e-4c4a-bbdc-23766a232e25"
+    }
+}
