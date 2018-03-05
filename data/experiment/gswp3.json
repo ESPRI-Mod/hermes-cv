@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-05T10:38:37.508418+00:00", 
+        "name": "gswp3", 
+        "display_name": "GSWP3", 
+        "type": "experiment", 
+        "uid": "19a0bfa6-3fc2-4415-8a86-b69db13e0336"
+    }
+}
