@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-06T17:12:05.554470+00:00", 
+        "name": "bresjuli", 
+        "display_name": "bresjuli", 
+        "type": "compute_node_login", 
+        "uid": "96d57a45-4083-4d7d-a379-26a2b8e61b24"
+    }
+}
