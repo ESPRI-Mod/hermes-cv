@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-06T11:46:56.609480+00:00", 
+        "name": "secstohalfdeg", 
+        "display_name": "secstohalfdeg", 
+        "type": "experiment", 
+        "uid": "bf3a2626-dc5c-41a3-86e7-748517367ca8"
+    }
+}
