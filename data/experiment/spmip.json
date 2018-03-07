@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-07T13:26:51.664100+00:00", 
+        "name": "spmip", 
+        "display_name": "SPMIP", 
+        "type": "experiment", 
+        "uid": "1884bb5a-f502-46bd-b682-c4fcea23e830"
+    }
+}
