@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-07T06:31:40.772578+00:00", 
+        "name": "testpicontrol", 
+        "display_name": "testpiControl", 
+        "type": "experiment", 
+        "uid": "1091df08-a2b7-4aa2-83f9-f40b171e2764"
+    }
+}
