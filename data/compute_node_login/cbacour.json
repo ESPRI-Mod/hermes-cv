@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-12T10:43:03.615815+00:00", 
+        "name": "cbacour", 
+        "display_name": "cbacour", 
+        "type": "compute_node_login", 
+        "uid": "afbb924b-f614-4f7e-a9c1-59d1462d196e"
+    }
+}
