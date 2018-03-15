@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-15T09:51:08.329835+00:00", 
+        "name": "pmicmip6", 
+        "display_name": "pmicmip6", 
+        "type": "accounting_project", 
+        "uid": "baf0166f-60fc-4251-bab2-1eafb879fa89"
+    }
+}
