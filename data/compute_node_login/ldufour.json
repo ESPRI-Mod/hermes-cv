@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-15T15:19:12.404803+00:00", 
+        "name": "ldufour", 
+        "display_name": "ldufour", 
+        "type": "compute_node_login", 
+        "uid": "3cea9c95-de9e-4d02-9334-8e7a1d2901a0"
+    }
+}
