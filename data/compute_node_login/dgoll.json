@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-19T15:34:34.819176+00:00", 
+        "name": "dgoll", 
+        "display_name": "dgoll", 
+        "type": "compute_node_login", 
+        "uid": "7399ed40-68ee-4226-971d-ce491c6d359b"
+    }
+}
