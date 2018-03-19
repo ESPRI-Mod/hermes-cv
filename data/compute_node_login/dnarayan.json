@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-19T18:20:04.922544+00:00", 
+        "name": "dnarayan", 
+        "display_name": "dnarayan", 
+        "type": "compute_node_login", 
+        "uid": "7e4e1b33-f6da-493b-b8d1-32b98e302346"
+    }
+}
