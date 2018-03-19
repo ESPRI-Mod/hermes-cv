@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-19T12:24:57.223233+00:00", 
+        "name": "flavoni", 
+        "display_name": "flavoni", 
+        "type": "compute_node_login", 
+        "uid": "36c53b41-4370-4114-8530-629aa8c9f67b"
+    }
+}
