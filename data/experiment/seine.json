@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-23T10:36:18.677925+00:00", 
+        "name": "seine", 
+        "display_name": "seine", 
+        "type": "experiment", 
+        "uid": "d5a93eae-ca27-4e72-b5ac-01749b29d88b"
+    }
+}
