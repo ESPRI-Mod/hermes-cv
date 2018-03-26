@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-26T19:47:42.917439+00:00", 
+        "name": "orchidee_2.0_reference", 
+        "display_name": "ORCHIDEE_2.0_Reference", 
+        "type": "experiment", 
+        "uid": "f2e7f72e-22a4-4a48-9f4b-1f52cd242f4c"
+    }
+}
