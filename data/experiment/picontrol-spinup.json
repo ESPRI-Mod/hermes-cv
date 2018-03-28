@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-28T18:28:10.984532+00:00", 
+        "name": "picontrol-spinup", 
+        "display_name": "piControl-spinup", 
+        "type": "experiment", 
+        "uid": "8abf9614-11d0-40c8-a906-b5299683107d"
+    }
+}
