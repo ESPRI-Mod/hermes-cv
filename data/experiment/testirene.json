@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-29T14:57:27.504249+00:00", 
+        "name": "testirene", 
+        "display_name": "testirene", 
+        "type": "experiment", 
+        "uid": "ea254f7e-1862-499c-b46c-aa1d567589b3"
+    }
+}
