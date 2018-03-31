@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-31T20:09:10.275681+00:00", 
+        "name": "polcher", 
+        "display_name": "polcher", 
+        "type": "compute_node_login", 
+        "uid": "07a4c8ed-899a-4de1-8920-65f74c032e8c"
+    }
+}

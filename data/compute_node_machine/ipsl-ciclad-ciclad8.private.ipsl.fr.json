@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-03-31T20:09:10.278427+00:00", 
+        "name": "ipsl-ciclad-ciclad8.private.ipsl.fr", 
+        "display_name": "ipsl-ciclad-ciclad8.private.ipsl.fr", 
+        "type": "compute_node_machine", 
+        "uid": "64ad1a51-33ad-4f0c-8ba9-04eecf169a23"
+    }
+}
