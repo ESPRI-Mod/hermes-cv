@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-12T08:54:51.443739+00:00", 
+        "name": "frhesmict", 
+        "display_name": "FRHesmict", 
+        "type": "experiment", 
+        "uid": "983b0dfd-a037-4804-aab4-13ba15cf160a"
+    }
+}
