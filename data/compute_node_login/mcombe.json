@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-12T12:37:26.030620+00:00", 
+        "name": "mcombe", 
+        "display_name": "mcombe", 
+        "type": "compute_node_login", 
+        "uid": "db9c6957-87ba-436d-ada5-aba835fd86d7"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-12T12:37:26.036160+00:00", 
+        "name": "congolowland", 
+        "display_name": "CongoLowLand", 
+        "type": "experiment", 
+        "uid": "c1d0261a-a1bc-447e-948e-0bdcaef9e5a4"
+    }
+}
