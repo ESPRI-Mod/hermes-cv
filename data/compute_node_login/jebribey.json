@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-13T13:55:28.965621+00:00", 
+        "name": "jebribey", 
+        "display_name": "jebribey", 
+        "type": "compute_node_login", 
+        "uid": "951792aa-9c4c-4a93-9543-0b7cd595cff8"
+    }
+}
