@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-13T21:21:35.885623+00:00", 
+        "name": "dekcmip6", 
+        "display_name": "dekcmip6", 
+        "type": "accounting_project", 
+        "uid": "c53523e0-b3b6-477a-a9c1-cc3c43804e13"
+    }
+}
