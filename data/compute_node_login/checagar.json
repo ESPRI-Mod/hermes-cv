@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-18T07:35:54.933491+00:00", 
+        "name": "checagar", 
+        "display_name": "checagar", 
+        "type": "compute_node_login", 
+        "uid": "43be26f6-1813-4d65-b269-ff42035d6a36"
+    }
+}
