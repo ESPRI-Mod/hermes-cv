@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-19T15:02:29.677343+00:00", 
+        "name": "kpetrus", 
+        "display_name": "kpetrus", 
+        "type": "compute_node_login", 
+        "uid": "da5730e3-3fdd-4a35-9a80-63def51eb75f"
+    }
+}
