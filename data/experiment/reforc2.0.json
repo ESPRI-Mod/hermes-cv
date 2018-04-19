@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-19T09:17:09.215318+00:00", 
+        "name": "reforc2.0", 
+        "display_name": "refORC2.0", 
+        "type": "experiment", 
+        "uid": "1aa10dca-5872-4586-a52d-6b36dbe6084b"
+    }
+}
