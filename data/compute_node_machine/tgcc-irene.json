@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-19T13:28:19.107566+00:00", 
+        "name": "tgcc-irene", 
+        "display_name": "tgcc-irene", 
+        "type": "compute_node_machine", 
+        "uid": "1f94dbde-7048-4bd6-8c06-e57b67f05c2c"
+    }
+}
