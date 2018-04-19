@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-19T09:46:39.549158+00:00", 
+        "name": "testhighresmip", 
+        "display_name": "testhighresmip", 
+        "type": "experiment", 
+        "uid": "e5a87bc5-8923-4cb5-93f8-4b1fbf6dc27b"
+    }
+}
