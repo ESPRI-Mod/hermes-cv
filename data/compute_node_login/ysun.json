@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "associations": [], 
+        "status": "new", 
+        "domain": "climate", 
+        "create_date": "2018-04-23T09:27:19.622646+00:00", 
+        "name": "ysun", 
+        "display_name": "ysun", 
+        "type": "compute_node_login", 
+        "uid": "567cf67f-7fae-44db-81d2-e890a52fd418"
+    }
+}
