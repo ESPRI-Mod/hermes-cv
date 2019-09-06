@@ -1,4 +1,4 @@
 hermes-cv
 ============
 
-HERMES CV collections
+HERMES controlled vocabulary collections
